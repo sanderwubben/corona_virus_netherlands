@@ -1,3 +1,7 @@
+[submodule "git/COVID19NL"]
+	path = git/COVID19NL
+	url = https://github.com/umbrio/COVID19NL
+
 [submodule "git/COVID-19"]
 	path = git/COVID-19
 	url = https://github.com/CSSEGISandData/COVID-19

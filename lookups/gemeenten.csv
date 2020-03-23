@@ -1,0 +1,360 @@
+Gemeentecode,GemeentecodeGM,Gemeentenaam,GeoGemeentenaam,Provinciecode,ProvinciecodePV,Provincienaam,"asylum_migrants","avg_household_income","avg_woz","avg_ww_ratio","flag_color1","flag_color2","flag_color3","flag_color4",latitude,longitude,murders,population,province,"shield_crown","shield_symbol_1","shield_symbol_2","shield_symbol_3","shieldholder_1","shieldholder_2","surface_km2","surface_land_km2","surface_water_km2",university,year
+1680,GM1680,"Aa en Hunze","Aa en Hunze",22,PV22,Drenthe,NA,NA,NA,NA,green,yellow,NA,NA,"53.010485","6.749528",NA,25243,Drenthe,crown,crown,cross,NA,deer,deer,"278.9","276.4","2.5",0,2018
+0358,GM0358,Aalsmeer,Aalsmeer,27,PV27,"Noord-Holland",NA,NA,NA,NA,red,green,black,NA,"52.262164","4.761922",NA,30792,"Noord-Holland",NA,lion,eel,NA,NA,NA,"32.3","20.4","11.9",0,2018
+0197,GM0197,Aalten,Aalten,25,PV25,Gelderland,NA,NA,NA,NA,white,green,NA,NA,"51.926667","6.580678",NA,27030,Gelderland,crown,tree,sword,NA,NA,NA,97,"96.5","0.5",0,2018
+0059,GM0059,Achtkarspelen,Achtkarspelen,21,PV21,Friesland,NA,NA,NA,NA,white,red,green,blue,"53.210357","6.153565",NA,28002,Friesland,crown,church,NA,NA,NA,NA,104,"102.4","1.6",0,2018
+0482,GM0482,Alblasserdam,Alblasserdam,28,PV28,"Zuid-Holland",NA,NA,NA,NA,yellow,red,NA,NA,"51.870337","4.670202",NA,19822,"Zuid-Holland",NA,lion,NA,NA,NA,NA,"10.1","8.8","1.3",0,2018
+0613,GM0613,Albrandswaard,Albrandswaard,28,PV28,"Zuid-Holland",NA,NA,NA,NA,red,yellow,white,blue,"51.858068","4.423187",NA,25044,"Zuid-Holland",crown,shield,NA,NA,NA,NA,"23.8","21.9","1.9",0,2018
+0361,GM0361,Alkmaar,Alkmaar,27,PV27,"Noord-Holland",NA,NA,NA,NA,red,white,NA,NA,"52.632842","4.755037",NA,94906,"Noord-Holland",laurel,stronghold,NA,NA,lion,lion,"31.2","29.3","1.9",0,2018
+0141,GM0141,Almelo,Almelo,23,PV23,Overijssel,NA,NA,NA,NA,blue,white,NA,NA,"52.367027","6.668492",NA,72435,Overijssel,crown,diamond,NA,NA,lion,lion,"69.4","67.4",2,0,2018
+0034,GM0034,Almere,Almere,24,PV24,Flevoland,NA,NA,NA,NA,red,yellow,blue,white,"52.350785","5.264702",NA,196156,Flevoland,crown,cog,lily,NA,seahorse,seahorse,"248.8","129.6","119.2",0,2018
+0484,GM0484,"Alphen aan den Rijn","Alphen aan den Rijn",28,PV28,"Zuid-Holland",NA,NA,NA,NA,blue,white,yellow,NA,"52.111222","4.647251",NA,106809,"Zuid-Holland",crown,star,stronghold,NA,lion,lion,"132.5","126.6","5.9",0,2018
+1723,GM1723,"Alphen-Chaam","Alphen-Chaam",30,PV30,"Noord-Brabant",NA,NA,NA,NA,green,white,NA,NA,"51.509135","4.861589",NA,9712,"Noord-Brabant",crown,mountain,comb,NA,bird,bird,"93.5",93,"0.5",0,2018
+1959,GM1959,Altena,Altena,30,PV30,"Noord-Brabant",NA,NA,NA,NA,yellow,red,green,blue,"51.808165","4.891848",NA,26400,"Noord-Brabant",crown,martlet,fish,corn,NA,NA,"121.8","104.6","17.2",0,2018
+0060,GM0060,Ameland,Ameland,21,PV21,Friesland,NA,NA,NA,NA,blue,yellow,black,white,"53.440564","5.658766",NA,3565,Friesland,crown,moon,NA,NA,NA,NA,"268.5","58.8","209.7",0,2018
+0307,GM0307,Amersfoort,Amersfoort,26,PV26,Utrecht,NA,NA,NA,NA,red,white,NA,NA,"52.156111","5.387827",NA,150943,Utrecht,crown,cross,NA,NA,lion,lion,"63.9","62.9",1,0,2018
+0362,GM0362,Amstelveen,Amstelveen,27,PV27,"Noord-Holland",NA,NA,NA,NA,red,black,white,NA,"52.311421","4.870087",NA,85135,"Noord-Holland",NA,cross,NA,NA,NA,NA,"44.1","41.5","2.6",0,2018
+0363,GM0363,Amsterdam,Amsterdam,27,PV27,"Noord-Holland",NA,NA,NA,NA,red,white,black,NA,"52.370216","4.895168",NA,853312,"Noord-Holland",crown,cross,NA,NA,lion,lion,"219.3","165.8","53.6",2,2018
+0200,GM0200,Apeldoorn,Apeldoorn,25,PV25,Gelderland,NA,NA,NA,NA,red,yellow,white,green,"52.211157","5.969923",NA,157535,Gelderland,NA,eagle,key,NA,NA,NA,"341.2","339.9","1.2",0,2018
+0003,GM0003,Appingedam,Appingedam,20,PV20,Groningen,NA,NA,NA,NA,yellow,blue,green,red,"53.320678","6.854422",NA,12049,Groningen,crown,pelican,NA,NA,NA,NA,"24.6","23.8","0.8",0,2018
+0202,GM0202,Arnhem,Arnhem,25,PV25,Gelderland,NA,NA,NA,NA,blue,white,NA,NA,"51.985103","5.89873",NA,150817,Gelderland,crown,eagle,NA,NA,lion,lion,"101.5",98,"3.6",0,2018
+0106,GM0106,Assen,Assen,22,PV22,Drenthe,NA,NA,NA,NA,blue,white,NA,NA,"52.992753","6.564228",NA,67209,Drenthe,crown,maria,jesus,NA,lion,lion,"83.5","81.9","1.5",0,2018
+0743,GM0743,Asten,Asten,30,PV30,"Noord-Brabant",NA,NA,NA,NA,white,red,yellow,black,"51.402994","5.744078",NA,16479,"Noord-Brabant",crown,cross,NA,NA,NA,NA,"71.3","70.2","1.1",0,2018
+0744,GM0744,"Baarle-Nassau","Baarle-Nassau",30,PV30,"Noord-Brabant",NA,NA,NA,NA,blue,white,red,yellow,"51.445137","4.929523",NA,6617,"Noord-Brabant",NA,haystack,NA,NA,NA,NA,"76.2","76.2",0,0,2018
+0308,GM0308,Baarn,Baarn,26,PV26,Utrecht,NA,NA,NA,NA,blue,yellow,NA,NA,"52.213182","5.28641",NA,24344,Utrecht,NA,bishop,NA,NA,NA,NA,33,"32.5","0.5",0,2018
+0489,GM0489,Barendrecht,Barendrecht,28,PV28,"Zuid-Holland",NA,NA,NA,NA,red,white,yellow,green,"51.851509","4.548581",NA,47375,"Zuid-Holland",NA,lion,NA,NA,NA,NA,"21.7","19.8","1.9",0,2018
+0203,GM0203,Barneveld,Barneveld,25,PV25,Gelderland,NA,NA,NA,NA,blue,yellow,red,NA,"52.162147","5.65536",NA,54176,Gelderland,NA,butterfly,plant,sun,NA,NA,"176.7",176,"0.7",0,2018
+0888,GM0888,Beek,Beek,31,PV31,Limburg,NA,NA,NA,NA,white,blue,NA,NA,"50.939316","5.795647",NA,16268,Limburg,crown,lion,cross,snake,NA,NA,21,21,0,0,2018
+1954,GM1954,Beekdaelen,Beekdaelen,31,PV31,Limburg,NA,NA,NA,NA,red,white,yellow,NA,"50.911427","5.892596",NA,15577,Limburg,crown,lion,martlet,NA,NA,NA,"33.1","33.1",0,0,2018
+1954,GM1954,BeekDaelen,Beekdaelen,31,PV31,Limburg,NA,NA,NA,NA,red,white,yellow,NA,"50.911427","5.892596",NA,15577,Limburg,crown,lion,martlet,NA,NA,NA,"33.1","33.1",0,0,2018
+0370,GM0370,Beemster,Beemster,27,PV27,"Noord-Holland",NA,NA,NA,NA,red,green,yellow,blue,"52.547559","4.913332",NA,8919,"Noord-Holland",NA,cow,sun,NA,NA,NA,"72.1","70.6","1.5",0,2018
+0889,GM0889,Beesel,Beesel,31,PV31,Limburg,NA,NA,NA,NA,yellow,blue,red,green,"51.269698","6.046834",NA,13593,Limburg,NA,dragon,NA,NA,NA,NA,"29.2","28.1",1,0,2018
+1945,GM1945,"Berg en Dal","Berg en Dal",25,PV25,Gelderland,NA,NA,NA,NA,white,red,black,yellow,"51.818121","5.920082",NA,18956,Gelderland,crown,lion,rose,NA,NA,NA,"44.1","44.1",0,0,2018
+1724,GM1724,Bergeijk,Bergeijk,30,PV30,"Noord-Brabant",NA,NA,NA,NA,yellow,blue,white,red,"51.319716","5.3575",NA,18250,"Noord-Brabant",crown,lion,lily,NA,"saint peter",oak,"101.7","101.2","0.6",0,2018
+0893,GM0893,"Bergen (L)","Bergen (L)",31,PV31,Limburg,NA,NA,NA,NA,yellow,blue,red,NA,"51.599866","6.032998",NA,13230,Limburg,NA,NA,NA,NA,NA,NA,"108.5","103.8","4.7",0,2018
+0373,GM0373,"Bergen (NH.)","Bergen (NH)",27,PV27,"Noord-Holland",NA,NA,NA,NA,white,blue,orange,NA,"52.674937","4.706395",NA,30075,"Noord-Holland",crown,martlet,NA,NA,NA,NA,"119.5","97.1","22.4",0,2018
+0373,GM0373,"Bergen (NH)","Bergen (NH)",27,PV27,"Noord-Holland",NA,NA,NA,NA,white,blue,orange,NA,"52.674937","4.706395",NA,30075,"Noord-Holland",crown,martlet,NA,NA,NA,NA,"119.5","97.1","22.4",0,2018
+0748,GM0748,"Bergen op Zoom","Bergen op Zoom",30,PV30,"Noord-Brabant",NA,NA,NA,NA,red,white,green,yellow,"51.494576","4.287162",NA,66423,"Noord-Brabant",crown,cross,mountain,NA,savage,savage,"93.1",80,"13.1",0,2018
+1859,GM1859,Berkelland,Berkelland,25,PV25,Gelderland,NA,NA,NA,NA,blue,brown,NA,NA,"52.115157","6.561501",NA,44650,Gelderland,crown,greyhound,NA,NA,lion,lion,"260.5","258.7","1.8",0,2018
+1721,GM1721,Bernheze,Bernheze,30,PV30,"Noord-Brabant",NA,NA,NA,NA,red,white,NA,NA,"51.660272","5.501401",NA,29703,"Noord-Brabant",crown,reedmace,NA,NA,NA,NA,"90.4","89.8","0.7",0,2018
+0753,GM0753,Best,Best,30,PV30,"Noord-Brabant",NA,NA,NA,NA,yellow,black,red,NA,"51.507764","5.397848",NA,28594,"Noord-Brabant",crown,"saint odulphus",NA,NA,NA,NA,"35.1","34.3","0.8",0,2018
+0209,GM0209,Beuningen,Beuningen,25,PV25,Gelderland,NA,NA,NA,NA,white,black,blue,red,"51.859724","5.769107",NA,25254,Gelderland,crown,eagle,stronghold,lion,NA,NA,"47.1","43.7","3.4",0,2018
+0375,GM0375,Beverwijk,Beverwijk,27,PV27,"Noord-Holland",NA,NA,NA,NA,red,white,NA,NA,"52.486984","4.657447",NA,40052,"Noord-Holland","mantle and pavilion",lion,lily,NA,angel,angel,"20.1","18.3","1.8",0,2018
+0310,GM0310,"De Bilt","De Bilt",26,PV26,Utrecht,NA,NA,NA,NA,yellow,blue,black,white,"52.109272","5.180968",NA,42013,Utrecht,crown,grate,NA,NA,NA,NA,"67.1","66.3","0.8",0,2018
+1728,GM1728,Bladel,Bladel,30,PV30,"Noord-Brabant",NA,NA,NA,NA,yellow,black,red,white,"51.362963","5.213639",NA,19825,"Noord-Brabant",crown,key,NA,NA,NA,NA,"75.6","75.4","0.3",0,2018
+0376,GM0376,Blaricum,Blaricum,27,PV27,"Noord-Holland",NA,NA,NA,NA,blue,green,white,NA,"52.272669","5.24808",NA,9112,"Noord-Holland",NA,cornflower,NA,NA,NA,NA,"15.6","11.1","4.5",0,2018
+0377,GM0377,Bloemendaal,Bloemendaal,27,PV27,"Noord-Holland",NA,NA,NA,NA,white,black,green,NA,"52.404947","4.620185",NA,22077,"Noord-Holland",crown,leaf,NA,NA,NA,NA,"45.2","39.7","5.5",0,2018
+1901,GM1901,"Bodegraven-Reeuwijk","Bodegraven-Reeuwijk",28,PV28,"Zuid-Holland",NA,NA,NA,NA,yellow,blue,NA,NA,"52.082326","4.746084",NA,32986,"Zuid-Holland",crown,spade,hat,deer,NA,NA,"88.6","75.7",13,0,2018
+0755,GM0755,Boekel,Boekel,30,PV30,"Noord-Brabant",NA,NA,NA,NA,blue,yellow,NA,NA,"51.602879","5.674316",NA,10089,"Noord-Brabant",NA,church,NA,NA,NA,NA,"34.5","34.5",0,0,2018
+1681,GM1681,"Borger-Odoorn","Borger-Odoorn",22,PV22,Drenthe,NA,NA,NA,NA,yellow,black,NA,NA,"52.889372","6.888404",NA,25633,Drenthe,crown,spade,dolmen,NA,horse,horse,"277.9","275.3","2.6",0,2018
+0147,GM0147,Borne,Borne,23,PV23,Overijssel,NA,NA,NA,NA,blue,yellow,NA,NA,"52.300237","6.753726",NA,21901,Overijssel,crown,beehive,bee,NA,NA,NA,"26.2",26,"0.2",0,2018
+0654,GM0654,Borsele,Borsele,29,PV29,Zeeland,NA,NA,NA,NA,white,blue,red,NA,"51.447691","3.803318",NA,22592,Zeeland,crown,NA,NA,NA,NA,NA,"194.5","141.7","52.8",0,2018
+0756,GM0756,Boxmeer,Boxmeer,30,PV30,"Noord-Brabant",NA,NA,NA,NA,red,yellow,NA,NA,"51.645269","5.956666",NA,28135,"Noord-Brabant",crown,goat,NA,NA,NA,NA,"113.8","111.5","2.3",0,2018
+0757,GM0757,Boxtel,Boxtel,30,PV30,"Noord-Brabant",NA,NA,NA,NA,red,white,yellow,NA,"51.601437","5.312177",NA,30325,"Noord-Brabant","saint peter",duck,NA,NA,NA,NA,"64.9","63.8","1.1",0,2018
+0758,GM0758,Breda,Breda,30,PV30,"Noord-Brabant",NA,NA,NA,NA,red,white,NA,NA,"51.571915","4.768323",NA,179999,"Noord-Brabant",angel,cross,NA,NA,lion,lion,"128.7",126,"2.6",0,2018
+0501,GM0501,Brielle,Brielle,28,PV28,"Zuid-Holland",NA,NA,NA,NA,white,red,NA,NA,"51.902582","4.163685",NA,16306,"Zuid-Holland",crown,NA,NA,NA,NA,centaur,"31.1","27.6","3.6",0,2018
+1876,GM1876,Bronckhorst,Bronckhorst,25,PV25,Gelderland,NA,NA,NA,NA,white,purple,pink,NA,"52.075595","6.180892",NA,36941,Gelderland,crown,lion,crown,NA,NA,NA,"286.4","283.6","2.9",0,2018
+0213,GM0213,Brummen,Brummen,25,PV25,Gelderland,NA,NA,NA,NA,blue,orange,green,red,"52.090167","6.158015",NA,21169,Gelderland,NA,lion,branch,NA,NA,NA,85,84,1,0,2018
+0899,GM0899,Brunssum,Brunssum,31,PV31,Limburg,NA,NA,NA,NA,red,blue,NA,NA,"50.948896","5.972166",NA,28914,Limburg,NA,cross,snake,pope,NA,NA,"17.3","17.2","0.1",0,2018
+0312,GM0312,Bunnik,Bunnik,26,PV26,Utrecht,NA,NA,NA,NA,green,white,NA,NA,"52.066528","5.200776",NA,14619,Utrecht,crown,cock,ship,horse,eagle,lion,"37.6",37,"0.6",0,2018
+0313,GM0313,Bunschoten,Bunschoten,26,PV26,Utrecht,NA,NA,NA,NA,blue,yellow,NA,NA,"52.240642","5.36707",NA,20547,Utrecht,crown,cross,eagle,NA,NA,NA,"34.8","30.4","4.4",0,2018
+0214,GM0214,Buren,Buren,25,PV25,Gelderland,NA,NA,NA,NA,red,white,NA,NA,"51.910389","5.334058",NA,25995,Gelderland,crown,NA,NA,NA,lion,lion,"142.9","134.3","8.7",0,2018
+0502,GM0502,"Capelle aan den IJssel","Capelle aan den IJssel",28,PV28,"Zuid-Holland",NA,NA,NA,NA,blue,white,NA,NA,"51.938073","4.591778",NA,66177,"Zuid-Holland",NA,fish,NA,NA,NA,NA,"15.4","14.3","1.2",0,2018
+0383,GM0383,Castricum,Castricum,27,PV27,"Noord-Holland",NA,NA,NA,NA,blue,yellow,green,white,"52.545259","4.672735",NA,34244,"Noord-Holland",crown,lion,acorn,plant,NA,NA,"60.4","49.7","10.7",0,2018
+0109,GM0109,Coevorden,Coevorden,22,PV22,Drenthe,NA,NA,NA,NA,red,blue,yellow,NA,"52.661357","6.741062",NA,35771,Drenthe,crown,eagle,staff,lance,savage,savage,"299.7","296.5","3.2",0,2018
+1706,GM1706,Cranendonck,Cranendonck,30,PV30,"Noord-Brabant",NA,NA,NA,NA,red,white,NA,NA,"51.286922","5.596695",NA,20388,"Noord-Brabant",eagle,horn,NA,NA,NA,NA,"78.1","76.5","1.6",0,2018
+1684,GM1684,Cuijk,Cuijk,30,PV30,"Noord-Brabant",NA,NA,NA,NA,yellow,red,NA,NA,"51.728927","5.879209",NA,24780,"Noord-Brabant",crown,martlet,NA,NA,NA,NA,"57.1","51.3","5.8",0,2018
+0216,GM0216,Culemborg,Culemborg,25,PV25,Gelderland,NA,NA,NA,NA,yellow,red,NA,NA,"51.956108","5.240045",NA,27579,Gelderland,NA,pillar,NA,NA,NA,NA,"31.1","29.4","1.7",0,2018
+0148,GM0148,Dalfsen,Dalfsen,23,PV23,Overijssel,NA,NA,NA,NA,blue,white,NA,NA,"52.507755","6.259667",NA,27655,Overijssel,crown,scythe,NA,NA,NA,NA,"166.5","165.1","1.4",0,2018
+1891,GM1891,Dantumadiel,Dantumadiel,21,PV21,Friesland,NA,NA,NA,NA,white,red,yellow,green,"53.272981","5.98593",NA,19035,Friesland,crown,fox,wave,NA,NA,NA,"87.5","85.4","2.1",0,2018
+0503,GM0503,Delft,Delft,28,PV28,"Zuid-Holland",NA,NA,NA,NA,white,black,NA,NA,"52.011577","4.357068",NA,101493,"Zuid-Holland",crown,NA,NA,NA,lion,lion,"24.1","22.8","1.2",1,2018
+0010,GM0010,Delfzijl,Delfzijl,20,PV20,Groningen,NA,NA,NA,NA,yellow,blue,red,black,"53.331027","6.92446",NA,25686,Groningen,crown,harpy,church,wave,lion,lion,"227.5","133.1","94.4",0,2018
+0762,GM0762,Deurne,Deurne,30,PV30,"Noord-Brabant",NA,NA,NA,NA,black,red,yellow,NA,"51.46422","5.795068",NA,31669,"Noord-Brabant","saint willibrord",cross,NA,NA,NA,NA,"118.4",117,"1.3",0,2018
+0150,GM0150,Deventer,Deventer,23,PV23,Overijssel,NA,NA,NA,NA,red,white,black,NA,"52.266075","6.155217",NA,98327,Overijssel,crown,eagle,NA,NA,knight,knight,"134.3","131.2","3.1",0,2018
+0384,GM0384,Diemen,Diemen,27,PV27,"Noord-Holland",NA,NA,NA,NA,blue,white,black,NA,"52.338993","4.959189",NA,25980,"Noord-Holland",crown,duck,NA,NA,NA,NA,14,12,2,0,2018
+1774,GM1774,Dinkelland,Dinkelland,23,PV23,Overijssel,NA,NA,NA,NA,blue,white,green,NA,"52.407617","6.89726",NA,25937,Overijssel,crown,lion,cross,NA,NA,NA,"176.8","175.8","1.1",0,2018
+0221,GM0221,Doesburg,Doesburg,25,PV25,Gelderland,NA,NA,NA,NA,white,red,yellow,NA,"52.014288","6.139782",NA,11449,Gelderland,crown,stronghold,moon,NA,NA,NA,13,"11.6","1.4",0,2018
+0222,GM0222,Doetinchem,Doetinchem,25,PV25,Gelderland,NA,NA,NA,NA,white,blue,yellow,NA,"51.964699","6.293774",NA,56350,Gelderland,crown,lion,flower,crown,NA,NA,"79.7","79.1","0.6",0,2018
+0766,GM0766,Dongen,Dongen,30,PV30,"Noord-Brabant",NA,NA,NA,NA,red,white,NA,NA,"51.62871","4.938239",NA,25389,"Noord-Brabant",crown,NA,NA,NA,NA,NA,"29.7","29.3","0.4",0,2018
+0505,GM0505,Dordrecht,Dordrecht,28,PV28,"Zuid-Holland",NA,NA,NA,NA,red,white,NA,NA,"51.813298","4.690093",NA,118716,"Zuid-Holland",crown,NA,NA,NA,griffin,griffin,"99.5",79,"20.5",0,2018
+0498,GM0498,Drechterland,Drechterland,27,PV27,"Noord-Holland",NA,NA,NA,NA,white,yellow,green,NA,"52.653307","5.183589",NA,19257,"Noord-Holland",crown,sword,flower,NA,NA,NA,"80.7","59.1","21.6",0,2018
+1719,GM1719,Drimmelen,Drimmelen,30,PV30,"Noord-Brabant",NA,NA,NA,NA,white,green,blue,NA,"51.708552","4.80349",NA,26705,"Noord-Brabant",NA,NA,NA,NA,NA,NA,"119.4","96.1","23.3",0,2018
+0303,GM0303,Dronten,Dronten,24,PV24,Flevoland,NA,NA,NA,NA,green,white,NA,NA,"52.534682","5.721809",NA,40451,Flevoland,crown,lily,ring,pedestal,horse,horse,"423.9","333.9",90,0,2018
+0225,GM0225,Druten,Druten,25,PV25,Gelderland,NA,NA,NA,NA,white,green,black,yellow,"51.894084","5.594272",NA,18206,Gelderland,crown,lion,NA,NA,NA,NA,"42.5","37.7","4.8",0,2018
+0226,GM0226,Duiven,Duiven,25,PV25,Gelderland,NA,NA,NA,NA,blue,white,yellow,red,"51.947458","6.01795",NA,25580,Gelderland,NA,dove,shield,carbuncle,NA,NA,"35.2","33.9","1.3",0,2018
+1711,GM1711,"Echt-Susteren","Echt-Susteren",31,PV31,Limburg,NA,NA,NA,NA,red,blue,white,yellow,"51.093224","5.907364",NA,31940,Limburg,crown,cross,branch,NA,woman,woman,"104.5","103.1","1.4",0,2018
+0385,GM0385,"Edam-Volendam","Edam-Volendam",27,PV27,"Noord-Holland",NA,NA,NA,NA,white,purple,red,green,"52.504541","5.045998",NA,28934,"Noord-Holland",bear,bull,star,NA,NA,NA,"24.8","16.3","8.5",0,2018
+0228,GM0228,Ede,Ede,25,PV25,Gelderland,NA,NA,NA,NA,yellow,blue,NA,NA,"52.040168","5.664859",NA,110657,Gelderland,NA,"dutch maiden","liberty hat",bible,NA,NA,"318.6","318.3","0.4",0,2018
+0317,GM0317,Eemnes,Eemnes,26,PV26,Utrecht,NA,NA,NA,NA,red,white,yellow,NA,"52.253746","5.261275",NA,8773,Utrecht,crown,bisshop,NA,NA,NA,NA,"33.7","31.1","2.6",0,2018
+0770,GM0770,Eersel,Eersel,30,PV30,"Noord-Brabant",NA,NA,NA,NA,black,yellow,white,red,"51.357808","5.315912",NA,18201,"Noord-Brabant",crown,stronghold,shield,lion,NA,NA,"83.3","82.5","0.9",0,2018
+1903,GM1903,"Eijsden-Margraten","Eijsden-Margraten",31,PV31,Limburg,NA,NA,NA,NA,black,grey,red,yellow,"50.81996","5.821457",NA,24980,Limburg,crown,eagle,cross,NA,NA,NA,"78.3","77.4","0.9",0,2018
+0772,GM0772,Eindhoven,Eindhoven,30,PV30,"Noord-Brabant",NA,NA,NA,NA,red,white,NA,NA,"51.441642","5.469722",NA,220782,"Noord-Brabant",crown,lion,horn,NA,NA,NA,"88.9","87.7","1.2",1,2018
+0230,GM0230,Elburg,Elburg,25,PV25,Gelderland,NA,NA,NA,NA,blue,white,red,yellow,"52.449263","5.834519",NA,22658,Gelderland,crown,gatehouse,branch,NA,lion,lion,"65.9","63.8","2.1",0,2018
+0114,GM0114,Emmen,Emmen,22,PV22,Drenthe,NA,NA,NA,NA,white,black,green,yellow,"52.713237","6.955777",NA,108003,Drenthe,crown,plow,"peat cutter",NA,horse,horse,"346.3","336.4","9.9",0,2018
+0388,GM0388,Enkhuizen,Enkhuizen,27,PV27,"Noord-Holland",NA,NA,NA,NA,red,yellow,white,black,"52.707566","5.27412",NA,18395,"Noord-Holland",NA,herring,star,crown,woman,NA,"116.3","12.4","103.8",0,2018
+0153,GM0153,Enschede,Enschede,23,PV23,Overijssel,NA,NA,NA,NA,white,red,NA,NA,"52.221537","6.893662",NA,158542,Overijssel,crown,cross,NA,NA,lion,lion,"142.7",141,"1.7",1,2018
+0232,GM0232,Epe,Epe,25,PV25,Gelderland,NA,NA,NA,NA,blue,yellow,NA,NA,"52.345017","5.983654",NA,32352,Gelderland,NA,"dutch maiden","liberty hat",bible,NA,NA,"157.4","156.3","1.1",0,2018
+0233,GM0233,Ermelo,Ermelo,25,PV25,Gelderland,NA,NA,NA,NA,blue,yellow,white,black,"52.298665","5.629619",NA,26080,Gelderland,crown,peacock,cross,NA,NA,NA,"87.3","85.6","1.7",0,2018
+0777,GM0777,"Etten-Leur","Etten-Leur",30,PV30,"Noord-Brabant",NA,NA,NA,NA,red,white,NA,NA,"51.586886","4.667138",NA,42351,"Noord-Brabant",crown,stronghold,NA,NA,NA,NA,"55.9","55.4","0.6",0,2018
+1940,GM1940,"De Fryske Marren","De Fryske Marren",21,PV21,Friesland,NA,NA,NA,NA,blue,white,yellow,red,"52.948003","5.791388",NA,51223,Friesland,crown,hare,"orb and cross",NA,NA,NA,"559.9","361.8","198.1",0,2018
+0779,GM0779,Geertruidenberg,Geertruidenberg,30,PV30,"Noord-Brabant",NA,NA,NA,NA,red,yellow,green,black,"51.702366","4.849978",NA,21597,"Noord-Brabant",crown,lion,spear,NA,NA,NA,"29.6","26.6",3,0,2018
+1771,GM1771,"Geldrop-Mierlo","Geldrop-Mierlo",30,PV30,"Noord-Brabant",NA,NA,NA,NA,yellow,blue,red,NA,"51.432447","5.58297",NA,38854,"Noord-Brabant",crown,leaf,millrind,NA,NA,NA,"31.4",31,"0.4",0,2018
+1652,GM1652,"Gemert-Bakel","Gemert-Bakel",30,PV30,"Noord-Brabant",NA,NA,NA,NA,white,red,black,yellow,"51.555289","5.690366",NA,29354,"Noord-Brabant",crown,eagle,cross,NA,NA,NA,"123.3","122.5","0.8",0,2018
+0907,GM0907,Gennep,Gennep,31,PV31,Limburg,NA,NA,NA,NA,red,yellow,NA,NA,"51.697854","5.972675",NA,17285,Limburg,crown,cross,scissors,NA,NA,NA,"50.4","47.7","2.7",0,2018
+0784,GM0784,"Gilze en Rijen","Gilze en Rijen",30,PV30,"Noord-Brabant",NA,NA,NA,NA,blue,yellow,NA,NA,"51.559855","4.909254",NA,26013,"Noord-Brabant",NA,"saint peter",NA,NA,NA,NA,"65.7","65.5","0.2",0,2018
+1924,GM1924,"Goeree-Overflakkee","Goeree-Overflakkee",28,PV28,"Zuid-Holland",NA,NA,NA,NA,white,green,black,blue,"51.759197","4.116981",NA,48233,"Zuid-Holland",crown,corn,wave,NA,NA,NA,"422.3",262,"160.3",0,2018
+0664,GM0664,Goes,Goes,29,PV29,Zeeland,NA,NA,NA,NA,red,white,NA,NA,"51.504646","3.89113",NA,36977,Zeeland,crown,lion,goose,NA,NA,NA,"101.9","92.7","9.2",0,2018
+0785,GM0785,Goirle,Goirle,30,PV30,"Noord-Brabant",NA,NA,NA,NA,white,blue,yellow,red,"51.523677","5.064195",NA,23060,"Noord-Brabant",NA,head,NA,NA,NA,NA,"42.3","42.1","0.3",0,2018
+1942,GM1942,"Gooise Meren","Gooise Meren",27,PV27,"Noord-Holland",NA,NA,NA,NA,yellow,black,NA,NA,"52.304762","5.139699",NA,56687,"Noord-Holland",NA,eagle,buckwheat,NA,NA,NA,"73.5",40,"33.5",0,2018
+0512,GM0512,Gorinchem,Gorinchem,28,PV28,"Zuid-Holland",NA,NA,NA,NA,white,red,NA,NA,"51.837225","4.975829",NA,35252,"Zuid-Holland",crown,gatehouse,shield,NA,lion,lion,"21.9","18.9",3,0,2018
+0513,GM0513,Gouda,Gouda,28,PV28,"Zuid-Holland",NA,NA,NA,NA,red,white,NA,NA,"52.011521","4.710463",NA,70923,"Zuid-Holland",crown,star,NA,NA,lion,lion,"18.1","16.9","1.3",0,2018
+0786,GM0786,Grave,Grave,30,PV30,"Noord-Brabant",NA,NA,NA,NA,yellow,red,NA,NA,"51.759005","5.73856",NA,12696,"Noord-Brabant",crown,martlet,stronghold,NA,NA,NA,28,"27.2","0.9",0,2018
+0518,GM0518,"'s-Gravenhage","'s-Gravenhage",28,PV28,"Zuid-Holland",NA,NA,NA,NA,yellow,green,NA,NA,"52.070498","4.3007",NA,508592,"Zuid-Holland",crown,stork,eel,NA,lion,lion,"98.1","81.9","16.2",0,2018
+0014,GM0014,Groningen,Groningen,20,PV20,Groningen,NA,NA,NA,NA,white,green,NA,NA,"53.219383","6.566502",NA,198108,Groningen,crown,eagle,heart,NA,lion,lion,"83.8","78.1","5.7",1,2018
+1729,GM1729,"Gulpen-Wittem","Gulpen-Wittem",31,PV31,Limburg,NA,NA,NA,NA,white,blue,NA,NA,"50.800934","5.897288",NA,14492,Limburg,crown,lion,eagle,cross,NA,NA,"73.4","73.2","0.2",0,2018
+0158,GM0158,Haaksbergen,Haaksbergen,23,PV23,Overijssel,NA,NA,NA,NA,red,blue,yellow,NA,"52.160665","6.7381",NA,24357,Overijssel,crown,star,NA,NA,NA,NA,"105.5","104.9","0.6",0,2018
+0788,GM0788,Haaren,Haaren,30,PV30,"Noord-Brabant",NA,NA,NA,NA,blue,white,NA,NA,"51.602133","5.226712",NA,13578,"Noord-Brabant",crown,tree,millrind,NA,NA,NA,"58.6","57.7","0.8",0,2018
+0392,GM0392,Haarlem,Haarlem,27,PV27,"Noord-Holland",NA,NA,NA,NA,red,white,yellow,NA,"52.387388","4.646219",NA,155205,"Noord-Holland",crown,sword,star,cross,lion,lion,"32.1","29.2","2.9",0,2018
+0394,GM0394,Haarlemmermeer,Haarlemmermeer,27,PV27,"Noord-Holland",NA,NA,NA,NA,blue,white,yellow,NA,"52.300378","4.674359",NA,144166,"Noord-Holland",crown,corn,wave,NA,NA,NA,"185.3","178.7","6.6",0,2018
+1655,GM1655,Halderberge,Halderberge,30,PV30,"Noord-Brabant",NA,NA,NA,NA,green,white,red,NA,"51.586263","4.513956",NA,29379,"Noord-Brabant",crown,stronghold,tree,duck,NA,NA,"75.2","74.6","0.7",0,2018
+0160,GM0160,Hardenberg,Hardenberg,23,PV23,Overijssel,NA,NA,NA,NA,yellow,blue,red,NA,"52.575408","6.616695",NA,59592,Overijssel,crown,trefoil,wave,NA,NA,NA,"317.1","312.5","4.7",0,2018
+0243,GM0243,Harderwijk,Harderwijk,25,PV25,Gelderland,NA,NA,NA,NA,yellow,blue,NA,NA,"52.342202","5.636742",NA,45741,Gelderland,crown,lion,NA,NA,lion,lion,"48.3","38.6","9.7",0,2018
+0523,GM0523,"Hardinxveld-Giessendam","Hardinxveld-Giessendam",28,PV28,"Zuid-Holland",NA,NA,NA,NA,white,red,black,blue,"51.83243","4.833641",NA,17736,"Zuid-Holland",crown,"water wheel",raven,NA,NA,NA,"19.4","16.9","2.4",0,2018
+0072,GM0072,Harlingen,Harlingen,21,PV21,Friesland,NA,NA,NA,NA,yellow,blue,red,white,"53.174638","5.425152",NA,15810,Friesland,crown,lily,cross,NA,"saint michael",NA,"387.7",25,"362.6",0,2018
+0244,GM0244,Hattem,Hattem,25,PV25,Gelderland,NA,NA,NA,NA,blue,yellow,NA,NA,"52.473931","6.068176",NA,11742,Gelderland,crown,lion,crown,NA,lion,lion,"24.2","23.1","1.1",0,2018
+0396,GM0396,Heemskerk,Heemskerk,27,PV27,"Noord-Holland",NA,NA,NA,NA,blue,white,NA,NA,"52.514146","4.682137",NA,39092,"Noord-Holland",NA,lion,NA,NA,NA,NA,"31.7","27.3","4.4",0,2018
+0397,GM0397,Heemstede,Heemstede,27,PV27,"Noord-Holland",NA,NA,NA,NA,yellow,red,NA,NA,"52.351063","4.6203",NA,26320,"Noord-Holland",crown,duck,NA,NA,griffin,griffin,"9.6","9.2","0.4",0,2018
+0246,GM0246,Heerde,Heerde,25,PV25,Gelderland,NA,NA,NA,NA,yellow,red,blue,white,"52.390918","6.049638",NA,18515,Gelderland,NA,sheep,ox,plow,NA,NA,"80.4","78.8","1.7",0,2018
+0074,GM0074,Heerenveen,Heerenveen,21,PV21,Friesland,NA,NA,NA,NA,white,black,blue,red,"52.960561","5.920522",NA,49388,Friesland,crown,wheel,sword,tree,NA,NA,"187.8","180.9","6.9",0,2018
+0398,GM0398,Heerhugowaard,Heerhugowaard,27,PV27,"Noord-Holland",NA,NA,NA,NA,yellow,white,blue,NA,"52.662677","4.832477",NA,53246,"Noord-Holland",NA,corn,heron,NA,NA,NA,40,"38.4","1.6",0,2018
+0917,GM0917,Heerlen,Heerlen,31,PV31,Limburg,NA,NA,NA,NA,blue,yellow,NA,NA,"50.888174","5.979499",NA,88202,Limburg,crown,lion,crown,NA,NA,NA,"45.5",45,"0.5",0,2018
+1658,GM1658,"Heeze-Leende","Heeze-Leende",30,PV30,"Noord-Brabant",NA,NA,NA,NA,yellow,red,green,NA,"51.360442","5.59846",NA,15376,"Noord-Brabant",oak,horn,NA,NA,NA,NA,105,104,1,0,2018
+0399,GM0399,Heiloo,Heiloo,27,PV27,"Noord-Holland",NA,NA,NA,NA,white,yellow,red,grey,"52.601234","4.700493",NA,22626,"Noord-Holland",crown,cross,NA,NA,griffin,lion,19,"18.7","0.3",0,2018
+0400,GM0400,"Den Helder","Den Helder",27,PV27,"Noord-Holland",NA,NA,NA,NA,yellow,red,black,NA,"52.956281","4.760797",NA,56553,"Noord-Holland",crown,NA,NA,NA,NA,NA,"178.8","42.3","133.6",0,2018
+0163,GM0163,Hellendoorn,Hellendoorn,23,PV23,Overijssel,NA,NA,NA,NA,blue,yellow,red,green,"52.376905","6.459724",NA,35697,Overijssel,crown,deer,tree,NA,NA,NA,139,"138.1","0.9",0,2018
+0530,GM0530,Hellevoetsluis,Hellevoetsluis,28,PV28,"Zuid-Holland",NA,NA,NA,NA,blue,red,green,NA,"51.831863","4.13181",NA,38918,"Zuid-Holland",crown,ship,"agnus dei",horn,NA,NA,"46.3","31.6","14.7",0,2018
+0794,GM0794,Helmond,Helmond,30,PV30,"Noord-Brabant",NA,NA,NA,NA,white,red,NA,NA,"51.479255","5.65701",NA,89346,"Noord-Brabant",crown,helmet,NA,NA,NA,NA,"54.8","53.2","1.5",0,2018
+0531,GM0531,"Hendrik-Ido-Ambacht","Hendrik-Ido-Ambacht",28,PV28,"Zuid-Holland",NA,NA,NA,NA,white,red,black,NA,"51.842397","4.639506",NA,28952,"Zuid-Holland",crown,cross,NA,NA,lion,lion,"11.9","10.7","1.2",0,2018
+0164,GM0164,Hengelo,"Hengelo (O)",23,PV23,Overijssel,NA,NA,NA,NA,blue,white,NA,NA,"52.257412","6.792772",NA,80975,Overijssel,NA,beehive,corn,bee,NA,NA,"61.8","60.9","0.9",0,2018
+0164,GM0164,"Hengelo (O)","Hengelo (O)",23,PV23,Overijssel,NA,NA,NA,NA,blue,white,NA,NA,"52.257412","6.792772",NA,80975,Overijssel,NA,beehive,corn,bee,NA,NA,"61.8","60.9","0.9",0,2018
+0796,GM0796,"'s-Hertogenbosch","'s-Hertogenbosch",30,PV30,"Noord-Brabant",NA,NA,NA,NA,red,blue,yellow,black,"51.711742","5.301631",NA,143745,"Noord-Brabant",crown,eagle,lion,tree,savage,savage,"91.8","84.5","7.3",0,2018
+0252,GM0252,Heumen,Heumen,25,PV25,Gelderland,NA,NA,NA,NA,blue,yellow,NA,NA,"51.764532","5.84315",NA,16342,Gelderland,crown,staff,lily,ermine,NA,NA,"41.5","39.9","1.7",0,2018
+0797,GM0797,Heusden,Heusden,30,PV30,"Noord-Brabant",NA,NA,NA,NA,yellow,blue,red,NA,"51.733004","5.138279",NA,43180,"Noord-Brabant",crown,wheel,NA,NA,lion,lion,"81.2","78.9","2.4",0,2018
+0534,GM0534,Hillegom,Hillegom,28,PV28,"Zuid-Holland",NA,NA,NA,NA,yellow,green,red,NA,"52.295626","4.579176",NA,20987,"Zuid-Holland",NA,lily,NA,NA,NA,NA,"13.5","12.9","0.6",0,2018
+0798,GM0798,Hilvarenbeek,Hilvarenbeek,30,PV30,"Noord-Brabant",NA,NA,NA,NA,yellow,blue,white,black,"51.465175","5.15109",NA,15082,"Noord-Brabant",crown,lion,key,ring,NA,NA,"96.5","94.9","1.6",0,2018
+0402,GM0402,Hilversum,Hilversum,27,PV27,"Noord-Holland",NA,NA,NA,NA,blue,yellow,NA,NA,"52.22917","5.166897",NA,86574,"Noord-Holland",NA,buckwheat,NA,NA,NA,NA,"46.4","45.6","0.7",0,2018
+1963,GM1963,"Hoeksche Waard","Hoeksche Waard",28,PV28,"Zuid-Holland",NA,NA,NA,NA,blue,white,yellow,red,"51.81893","4.427236",NA,23727,"Zuid-Holland",crown,NA,NA,NA,NA,NA,"19.6","18.8","0.9",0,2018
+1735,GM1735,"Hof van Twente","Hof van Twente",23,PV23,Overijssel,NA,NA,NA,NA,yellow,green,white,NA,"52.241427","6.591555",NA,34987,Overijssel,crown,tree,cross,flower,NA,NA,"215.4","212.8","2.6",0,2018
+1966,GM1966,"Het Hogeland","Het Hogeland",20,PV20,Groningen,NA,NA,NA,NA,yellow,white,blue,NA,"53.301675","6.599829",NA,10475,Groningen,crown,spade,cross,book,NA,NA,45,"44.6","0.4",0,2018
+1911,GM1911,"Hollands Kroon","Hollands Kroon",27,PV27,"Noord-Holland",NA,NA,NA,NA,grey,red,blue,green,"52.811859","5.00119",NA,47501,"Noord-Holland",crown,lion,crown,NA,NA,NA,"662.2","358.1","304.1",0,2018
+0118,GM0118,Hoogeveen,Hoogeveen,22,PV22,Drenthe,NA,NA,NA,NA,NA,NA,NA,NA,"52.728616","6.4901",NA,54680,Drenthe,crown,haystack,bee,beehive,NA,NA,"129.3","127.7","1.6",0,2018
+0405,GM0405,Hoorn,Hoorn,27,PV27,"Noord-Holland",NA,NA,NA,NA,red,white,NA,NA,"52.642365","5.060212",NA,71741,"Noord-Holland",unicorn,horn,NA,NA,NA,NA,"53.3","20.3",33,0,2018
+1507,GM1507,"Horst aan de Maas","Horst aan de Maas",31,PV31,Limburg,NA,NA,NA,NA,yellow,black,red,white,"51.423226","6.030317",NA,41718,Limburg,crown,flower,NA,NA,NA,NA,"191.9","188.6","3.3",0,2018
+0321,GM0321,Houten,Houten,26,PV26,Utrecht,NA,NA,NA,NA,white,red,blue,NA,"52.002991","5.18576",NA,48427,Utrecht,crown,NA,NA,NA,NA,NA,59,"55.4","3.6",0,2018
+0406,GM0406,Huizen,Huizen,27,PV27,"Noord-Holland",NA,NA,NA,NA,yellow,red,NA,NA,"52.299465","5.243393",NA,41239,"Noord-Holland",NA,milkwoman,NA,NA,NA,NA,"23.3","15.8","7.5",0,2018
+0677,GM0677,Hulst,Hulst,29,PV29,Zeeland,NA,NA,NA,NA,yellow,black,NA,NA,"51.280691","4.054887",NA,27402,Zeeland,crown,lion,leaf,NA,NA,NA,"251.8","201.4","50.4",0,2018
+0353,GM0353,IJsselstein,IJsselstein,26,PV26,Utrecht,NA,NA,NA,NA,yellow,black,NA,NA,"52.017765","5.0403",NA,34268,Utrecht,crown,cross,NA,NA,NA,NA,"21.7","21.2","0.5",0,2018
+1884,GM1884,"Kaag en Braassem","Kaag en Braassem",28,PV28,"Zuid-Holland",NA,NA,NA,NA,white,green,purple,NA,"52.204135","4.631315",NA,25758,"Zuid-Holland",crown,lion,moon,crown,NA,NA,"72.2","63.4","8.9",0,2018
+0166,GM0166,Kampen,Kampen,23,PV23,Overijssel,NA,NA,NA,NA,white,black,NA,NA,"52.557964","5.914462",NA,51069,Overijssel,crown,stronghold,NA,NA,lion,lion,"161.8","142.6","19.2",0,2018
+0678,GM0678,Kapelle,Kapelle,29,PV29,Zeeland,NA,NA,NA,NA,white,yellow,red,blue,"51.484755","3.959631",NA,12508,Zeeland,crown,church,cross,boar,NA,NA,"49.6","37.1","12.5",0,2018
+0537,GM0537,Katwijk,Katwijk,28,PV28,"Zuid-Holland",NA,NA,NA,NA,white,blue,yellow,red,"52.19802","4.419943",NA,62825,"Zuid-Holland",crown,tower,cross,NA,NA,NA,"31.1","24.5","6.6",0,2018
+0928,GM0928,Kerkrade,Kerkrade,31,PV31,Limburg,NA,NA,NA,NA,red,white,NA,NA,"50.865946","6.070549",NA,46773,Limburg,NA,"saint lambert",lion,shield,NA,NA,"22.1","21.9","0.2",0,2018
+1598,GM1598,Koggenland,Koggenland,27,PV27,"Noord-Holland",NA,NA,NA,NA,yellow,blue,white,NA,"52.652196","4.942015",NA,22473,"Noord-Holland",crown,ship,moon,NA,NA,lion,"84.1","80.5","3.6",0,2018
+0542,GM0542,"Krimpen aan den IJssel","Krimpen aan den IJssel",28,PV28,"Zuid-Holland",NA,NA,NA,NA,green,yellow,NA,NA,"51.914353","4.596233",NA,28814,"Zuid-Holland",NA,moon,NA,NA,NA,NA,9,"7.8","1.2",0,2018
+1931,GM1931,Krimpenerwaard,Krimpenerwaard,28,PV28,"Zuid-Holland",NA,NA,NA,NA,green,yellow,NA,NA,"51.982222","4.781667",NA,54287,"Zuid-Holland",crown,lion,tower,star,NA,NA,"161.3","161.3",0,0,2018
+1659,GM1659,Laarbeek,Laarbeek,30,PV30,"Noord-Brabant",NA,NA,NA,NA,blue,green,red,white,"51.538447","5.621273",NA,21815,"Noord-Brabant",crown,millrind,wave,cross,NA,NA,"56.2","55.4","0.8",0,2018
+1685,GM1685,Landerd,Landerd,30,PV30,"Noord-Brabant",NA,NA,NA,NA,white,red,green,NA,"51.726775","5.659492",NA,15262,"Noord-Brabant",crown,martlet,flower,NA,NA,NA,"70.7","70.4","0.3",0,2018
+0882,GM0882,Landgraaf,Landgraaf,31,PV31,Limburg,NA,NA,NA,NA,yellow,blue,red,black,"50.892765","6.022408",NA,37530,Limburg,crown,staff,lion,lily,NA,NA,"24.7","24.6","0.1",0,2018
+0415,GM0415,Landsmeer,Landsmeer,27,PV27,"Noord-Holland",NA,NA,NA,NA,red,white,black,NA,"52.440338","4.920923",NA,10457,"Noord-Holland",NA,goose,arrow,NA,NA,NA,"26.5","22.6","3.9",0,2018
+0416,GM0416,Langedijk,Langedijk,27,PV27,"Noord-Holland",NA,NA,NA,NA,yellow,red,black,NA,"52.686711","4.783899",NA,26984,"Noord-Holland",crown,lion,NA,NA,NA,NA,27,24,3,0,2018
+1621,GM1621,Lansingerland,Lansingerland,28,PV28,"Zuid-Holland",NA,NA,NA,NA,yellow,white,green,red,"51.998714","4.516263",NA,57188,"Zuid-Holland",crown,star,diamond,NA,NA,NA,"56.4","54.3","2.1",0,2018
+0417,GM0417,Laren,Laren,27,PV27,"Noord-Holland",NA,NA,NA,NA,blue,yellow,NA,NA,"52.256817","5.224155",NA,10846,"Noord-Holland",NA,letter,NA,NA,NA,NA,"12.4","12.4",0,0,2018
+0080,GM0080,Leeuwarden,Leeuwarden,21,PV21,Friesland,NA,NA,NA,NA,blue,yellow,NA,NA,"53.201233","5.799913",NA,108113,Friesland,crown,lion,NA,NA,NA,NA,167,"151.7","15.3",0,2018
+0546,GM0546,Leiden,Leiden,28,PV28,"Zuid-Holland",NA,NA,NA,NA,red,white,NA,NA,"52.160114","4.49701",NA,121199,"Zuid-Holland",lion,key,NA,NA,NA,NA,"23.3",22,"1.3",1,2018
+0547,GM0547,Leiderdorp,Leiderdorp,28,PV28,"Zuid-Holland",NA,NA,NA,NA,white,red,blue,NA,"52.150985","4.528173",NA,26788,"Zuid-Holland",NA,ket,wave,NA,NA,NA,"12.3","11.6","0.7",0,2018
+1916,GM1916,"Leidschendam-Voorburg","Leidschendam-Voorburg",28,PV28,"Zuid-Holland",NA,NA,NA,NA,white,blue,red,black,"52.087731","4.399385",NA,73392,"Zuid-Holland",crown,tower,wave,moon,NA,NA,"35.6","32.7","2.9",0,2018
+0995,GM0995,Lelystad,Lelystad,24,PV24,Flevoland,NA,NA,NA,NA,yellow,blue,white,NA,"52.518537","5.471422",NA,76170,Flevoland,crown,lily,shield,NA,morse,morse,"765.5","231.5","533.9",0,2018
+1640,GM1640,Leudal,Leudal,31,PV31,Limburg,NA,NA,NA,NA,yellow,red,blue,NA,"51.261966","5.890997",NA,36213,Limburg,crown,horn,staff,NA,NA,NA,"164.9","162.8","2.1",0,2018
+0327,GM0327,Leusden,Leusden,26,PV26,Utrecht,NA,NA,NA,NA,green,red,black,white,"52.131793","5.429469",NA,28967,Utrecht,crown,leaf,lily,cross,NA,NA,"58.9","58.6","0.3",0,2018
+1705,GM1705,Lingewaard,Lingewaard,25,PV25,Gelderland,NA,NA,NA,NA,white,blue,yellow,pink,"51.903891","5.935221",NA,45814,Gelderland,crown,swan,stronghold,NA,NA,NA,"69.1","62.2","6.9",0,2018
+0553,GM0553,Lisse,Lisse,28,PV28,"Zuid-Holland",NA,NA,NA,NA,yellow,blue,NA,NA,"52.25793","4.557483",NA,22376,"Zuid-Holland",NA,lion,NA,NA,NA,NA,"16.1","15.7","0.4",0,2018
+0262,GM0262,Lochem,Lochem,25,PV25,Gelderland,NA,NA,NA,NA,yellow,blue,NA,NA,"52.158665","6.409816",NA,33268,Gelderland,crown,lion,tower,flower,NA,NA,"215.9","213.2","2.7",0,2018
+0809,GM0809,"Loon op Zand","Loon op Zand",30,PV30,"Noord-Brabant",NA,NA,NA,NA,white,yellow,black,red,"51.627014","5.072009",NA,23104,"Noord-Brabant",NA,horn,hammer,NA,NA,NA,"50.7","50.2","0.6",0,2018
+0331,GM0331,Lopik,Lopik,26,PV26,Utrecht,NA,NA,NA,NA,yellow,blue,red,white,"51.974861","4.945148",NA,14000,Utrecht,NA,crown,NA,NA,NA,NA,79,"75.8","3.2",0,2018
+0024,GM0024,Loppersum,Loppersum,20,PV20,Groningen,NA,NA,NA,NA,red,white,yellow,NA,"53.332175","6.747987",NA,10181,Groningen,crown,eagle,key,lance,NA,NA,112,111,1,0,2018
+0168,GM0168,Losser,Losser,23,PV23,Overijssel,NA,NA,NA,NA,white,red,NA,NA,"52.262852","7.005785",NA,22619,Overijssel,NA,cross,bisshop,NA,NA,NA,"99.6","99.8","0.8",0,2018
+0263,GM0263,Maasdriel,Maasdriel,25,PV25,Gelderland,NA,NA,NA,NA,blue,red,white,yellow,"51.768907","5.323304",NA,24197,Gelderland,crown,church,moon,parrot,NA,NA,"75.5",66,"9.4",0,2018
+1641,GM1641,Maasgouw,Maasgouw,31,PV31,Limburg,NA,NA,NA,NA,blue,white,yellow,NA,"51.167805","5.88414",NA,23888,Limburg,crown,sword,staff,NA,NA,NA,58,"45.8","12.2",0,2018
+0556,GM0556,Maassluis,Maassluis,28,PV28,"Zuid-Holland",NA,NA,NA,NA,blue,white,NA,NA,"51.922607","4.254566",NA,32097,"Zuid-Holland",sword,lable,wave,NA,NA,NA,"10.1","8.5","1.6",0,2018
+0935,GM0935,Maastricht,Maastricht,31,PV31,Limburg,NA,NA,NA,NA,red,white,NA,NA,"50.851368","5.690973",NA,122331,Limburg,angel,star,NA,NA,NA,NA,60,"56.8","3.2",1,2018
+0420,GM0420,Medemblik,Medemblik,27,PV27,"Noord-Holland",NA,NA,NA,NA,yellow,black,blue,NA,"52.767447","5.106918",NA,43331,"Noord-Holland",crown,NA,NA,NA,lion,lion,"257.6","121.8","135.8",0,2018
+0938,GM0938,Meerssen,Meerssen,31,PV31,Limburg,NA,NA,NA,NA,yellow,blue,black,NA,"50.884943","5.752637",NA,19259,Limburg,NA,eagle,lily,NA,NA,NA,"27.6","27.1","0.5",0,2018
+1948,GM1948,Meierijstad,Meierijstad,30,PV30,"Noord-Brabant",NA,NA,NA,NA,NA,NA,NA,NA,"51.613704","5.548213",NA,NA,"Noord-Brabant",crown,cross,moon,stronghold,NA,NA,"185.5","184.1","1.4",0,2018
+0119,GM0119,Meppel,Meppel,22,PV22,Drenthe,NA,NA,NA,NA,white,green,red,black,"52.692123","6.193719",NA,32875,Drenthe,crown,trefoil,NA,NA,NA,NA,57,"55.7","1.3",0,2018
+0687,GM0687,Middelburg,Middelburg,29,PV29,Zeeland,NA,NA,NA,NA,red,yellow,NA,NA,"51.498796","3.610998",NA,47660,Zeeland,eagle,tower,NA,NA,NA,NA,53,"48.5","4.5",0,2018
+1842,GM1842,"Midden-Delfland","Midden-Delfland",28,PV28,"Zuid-Holland",NA,NA,NA,NA,blue,green,white,yellow,"51.954201","4.28831",NA,18449,"Zuid-Holland",NA,NA,NA,NA,NA,NA,"49.4","47.4",2,0,2018
+1731,GM1731,"Midden-Drenthe","Midden-Drenthe",22,PV22,Drenthe,NA,NA,NA,NA,green,yellow,NA,NA,"52.861104","6.512304",NA,33368,Drenthe,crown,lily,cross,eagle,horse,horse,"345.9",341,"4.9",0,2018
+1952,GM1952,"Midden-Groningen","Midden-Groningen",20,PV20,Groningen,NA,NA,NA,NA,purple,white,NA,NA,"53.214825","6.503424",NA,NA,Groningen,crown,"sea dragon",wheel,bush,NA,NA,NA,NA,NA,0,2018
+0815,GM0815,"Mill en Sint Hubert","Mill en Sint Hubert",30,PV30,"Noord-Brabant",NA,NA,NA,NA,yellow,black,blue,NA,"51.679806","5.755381",NA,10843,"Noord-Brabant",NA,"saint willibrord",NA,NA,NA,NA,"53.2","52.3","0.9",0,2018
+1709,GM1709,Moerdijk,Moerdijk,30,PV30,"Noord-Brabant",NA,NA,NA,NA,black,yellow,white,green,"51.660156","4.513072",NA,36775,"Noord-Brabant",crown,cross,diamond,NA,NA,NA,184,"159.2","24.8",0,2018
+1978,GM1978,Molenlanden,Molenlanden,28,PV28,"Zuid-Holland",NA,NA,NA,NA,red,white,blue,NA,"51.865735","4.924345",NA,14423,"Zuid-Holland",crown,wave,NA,NA,NA,NA,"65.1","63.6","1.5",0,2018
+1955,GM1955,Montferland,Montferland,25,PV25,Gelderland,NA,NA,NA,NA,white,green,blue,black,"51.919617","6.246311",NA,34985,Gelderland,crown,lion,NA,NA,NA,NA,"106.6","105.7",1,0,2018
+0335,GM0335,Montfoort,Montfoort,26,PV26,Utrecht,NA,NA,NA,NA,grey,black,red,NA,"52.036213","4.951859",NA,13639,Utrecht,crown,stronghold,millrind,NA,lion,lion,"38.2","37.7","0.5",0,2018
+0944,GM0944,"Mook en Middelaar","Mook en Middelaar",31,PV31,Limburg,NA,NA,NA,NA,red,blue,yellow,white,"51.75123","5.88163",NA,7783,Limburg,crown,"saint lambert","saint antony",lion,NA,NA,"18.8","17.4","1.4",0,2018
+1740,GM1740,"Neder-Betuwe","Neder-Betuwe",25,PV25,Gelderland,NA,NA,NA,NA,blue,white,yellow,red,"51.930937","5.574103",NA,22591,Gelderland,crown,lion,wolf,NA,NA,NA,"68.2","60.6","7.5",0,2018
+0946,GM0946,Nederweert,Nederweert,31,PV31,Limburg,NA,NA,NA,NA,blue,green,white,NA,"51.286563","5.752701",NA,16773,Limburg,crown,wave,NA,NA,NA,NA,"101.8","100.2","1.6",0,2018
+0356,GM0356,Nieuwegein,Nieuwegein,26,PV26,Utrecht,NA,NA,NA,NA,red,blue,white,NA,"52.024821","5.091819",NA,61017,Utrecht,NA,tower,wave,NA,NA,NA,"25.7","23.7",2,0,2018
+0569,GM0569,Nieuwkoop,Nieuwkoop,28,PV28,"Zuid-Holland",NA,NA,NA,NA,red,yellow,black,NA,"52.150056","4.777359",NA,27114,"Zuid-Holland",crown,wheel,eagle,fox,NA,NA,"91.2","78.9","12.3",0,2018
+0267,GM0267,Nijkerk,Nijkerk,25,PV25,Gelderland,NA,NA,NA,NA,blue,yellow,white,red,"52.222484","5.483563",NA,40600,Gelderland,crown,lion,lily,cross,NA,NA,"72.1","69.5","2.6",0,2018
+0268,GM0268,Nijmegen,Nijmegen,25,PV25,Gelderland,NA,NA,NA,NA,black,red,NA,NA,"51.812563","5.837226",NA,168499,Gelderland,crown,lion,eagle,NA,NA,NA,"57.6","53.6",4,1,2018
+1930,GM1930,Nissewaard,Nissewaard,28,PV28,"Zuid-Holland",NA,NA,NA,NA,white,green,blue,NA,"51.848034","4.328748",NA,85083,"Zuid-Holland",crown,lion,cross,wave,NA,NA,"98.7","82.3","16.5",0,2018
+1970,GM1970,"Noardeast-Fryslân","Noardeast-Fryslân",21,PV21,Friesland,NA,NA,NA,NA,yellow,blue,NA,NA,"53.337834","5.823835",NA,8771,Friesland,crown,star,NA,NA,NA,NA,"133.2","97.7","35.5",0,2018
+1695,GM1695,"Noord-Beveland","Noord-Beveland",29,PV29,Zeeland,NA,NA,NA,NA,white,red,yellow,black,"51.570283","3.771484",NA,7508,Zeeland,crown,star,wave,diamond,NA,NA,"121.5","85.8","35.7",0,2018
+1699,GM1699,Noordenveld,Noordenveld,22,PV22,Drenthe,NA,NA,NA,NA,green,yellow,black,white,"53.095093","6.445541",NA,31110,Drenthe,crown,trefoil,NA,NA,NA,NA,"205.3",201,"4.3",0,2018
+0171,GM0171,Noordoostpolder,Noordoostpolder,24,PV24,Flevoland,NA,NA,NA,NA,white,blue,red,black,"52.692622","5.737842",NA,46372,Flevoland,crown,lily,stronghold,NA,NA,NA,"595.4","460.3","135.1",0,2018
+0575,GM0575,Noordwijk,Noordwijk,28,PV28,"Zuid-Holland",NA,NA,NA,NA,white,black,NA,NA,"52.239989","4.450009",NA,25689,"Zuid-Holland",NA,lion,NA,NA,NA,NA,"51.5","35.5",16,0,2018
+0820,GM0820,"Nuenen, Gerwen en Nederwetten","Nuenen, Gerwen en Nederwetten",30,PV30,"Noord-Brabant",NA,NA,NA,NA,red,white,black,yellow,"51.478251","5.556858",NA,22596,"Noord-Brabant",crown,lion,star,rose,NA,NA,"33.9","33.7","0.2",0,2018
+0302,GM0302,Nunspeet,Nunspeet,25,PV25,Gelderland,NA,NA,NA,NA,yellow,black,white,NA,"52.374772","5.769895",NA,26707,Gelderland,crown,deer,NA,NA,NA,NA,"129.5","128.8","0.7",0,2018
+0579,GM0579,Oegstgeest,Oegstgeest,28,PV28,"Zuid-Holland",NA,NA,NA,NA,yellow,red,NA,NA,"52.186226","4.47481",NA,22855,"Zuid-Holland",crown,cross,NA,NA,NA,NA,8,"7.3","0.7",0,2018
+0823,GM0823,Oirschot,Oirschot,30,PV30,"Noord-Brabant",NA,NA,NA,NA,blue,white,green,NA,"51.504448","5.308463",NA,17989,"Noord-Brabant",crown,lion,oak,bass,NA,NA,"102.8","101.8","1.1",0,2018
+0824,GM0824,Oisterwijk,Oisterwijk,30,PV30,"Noord-Brabant",NA,NA,NA,NA,white,red,NA,NA,"51.565424","5.203028",NA,25835,"Noord-Brabant",NA,stronghold,NA,NA,NA,NA,"65.1","63.9","1.2",0,2018
+1895,GM1895,Oldambt,Oldambt,20,PV20,Groningen,NA,NA,NA,NA,blue,yellow,white,red,"53.203691","7.05297",NA,38558,Groningen,crown,star,wave,NA,NA,NA,"295.9","227.8","68.2",0,2018
+0269,GM0269,Oldebroek,Oldebroek,25,PV25,Gelderland,NA,NA,NA,NA,blue,yellow,green,white,"52.447445","5.898317",NA,22824,Gelderland,NA,leaf,NA,NA,NA,NA,"98.8","97.7","1.2",0,2018
+0173,GM0173,Oldenzaal,Oldenzaal,23,PV23,Overijssel,NA,NA,NA,NA,blue,yellow,NA,NA,"52.311655","6.926828",NA,32152,Overijssel,crown,cross,bisshop,NA,NA,NA,22,"21.6","0.4",0,2018
+1773,GM1773,"Olst-Wijhe","Olst-Wijhe",23,PV23,Overijssel,NA,NA,NA,NA,green,blue,NA,NA,"52.351896","6.127076",NA,17760,Overijssel,crown,haystack,tree,dove,NA,NA,"118.4","114.1","4.3",0,2018
+0175,GM0175,Ommen,Ommen,23,PV23,Overijssel,NA,NA,NA,NA,yellow,blue,white,NA,"52.506652","6.435289",NA,17370,Overijssel,crown,maiden,lion,star,NA,NA,182,180,2,0,2018
+1586,GM1586,"Oost Gelre","Oost Gelre",25,PV25,Gelderland,NA,NA,NA,NA,purple,white,NA,NA,"51.990117","6.567068",NA,29648,Gelderland,NA,stronghold,lion,NA,NA,NA,"110.1","109.7","0.5",0,2018
+0826,GM0826,Oosterhout,Oosterhout,30,PV30,"Noord-Brabant",NA,NA,NA,NA,white,black,NA,NA,"51.64102","4.86169",NA,53733,"Noord-Brabant",crown,moon,NA,NA,lion,lion,"73.1","71.5","1.6",0,2018
+0085,GM0085,Ooststellingwerf,Ooststellingwerf,21,PV21,Friesland,NA,NA,NA,NA,red,white,NA,NA,"52.988319","6.270427",NA,25672,Friesland,NA,NA,NA,NA,NA,NA,"226.1","224.2",2,0,2018
+0431,GM0431,Oostzaan,Oostzaan,27,PV27,"Noord-Holland",NA,NA,NA,NA,yellow,blue,black,green,"52.440497","4.875722",NA,9154,"Noord-Holland",crown,trident,NA,NA,NA,NA,"16.1","11.5","4.6",0,2018
+0432,GM0432,Opmeer,Opmeer,27,PV27,"Noord-Holland",NA,NA,NA,NA,yellow,red,blue,NA,"52.705379","4.942667",NA,11374,"Noord-Holland",crown,lion,corn,tree,eagle,lion,"41.9","41.6","0.4",0,2018
+0086,GM0086,Opsterland,Opsterland,21,PV21,Friesland,NA,NA,NA,NA,white,red,green,NA,"53.039542","6.11532",NA,29894,Friesland,crown,tree,hare,NA,NA,NA,"227.6","224.6",3,0,2018
+0828,GM0828,Oss,Oss,30,PV30,"Noord-Brabant",NA,NA,NA,NA,white,red,yellow,blue,"51.76118","5.514048",NA,85039,"Noord-Brabant",crown,ox,NA,NA,NA,NA,"159.9","152.4","7.5",0,2018
+1509,GM1509,"Oude IJsselstreek","Oude IJsselstreek",25,PV25,Gelderland,NA,NA,NA,NA,white,purple,green,NA,"51.911046","6.405564",NA,39614,Gelderland,crown,lion,wave,ring,NA,NA,"137.9","136.4","1.5",0,2018
+0437,GM0437,"Ouder-Amstel","Ouder-Amstel",27,PV27,"Noord-Holland",NA,NA,NA,NA,red,black,white,NA,"52.285929","4.913383",NA,13255,"Noord-Holland",crown,cross,NA,NA,NA,NA,"25.8","24.1","1.7",0,2018
+0589,GM0589,Oudewater,Oudewater,26,PV26,Utrecht,NA,NA,NA,NA,red,white,NA,NA,"52.024163","4.868417",NA,9868,Utrecht,crown,stronghold,lion,NA,lion,lion,"40.1","39.1",1,0,2018
+1734,GM1734,Overbetuwe,Overbetuwe,25,PV25,Gelderland,NA,NA,NA,NA,yellow,blue,white,red,"51.932775","5.781465",NA,46653,Gelderland,crown,stronghold,boat,coffin,NA,NA,"115.1","109.4","5.7",0,2018
+0590,GM0590,Papendrecht,Papendrecht,28,PV28,"Zuid-Holland",NA,NA,NA,NA,blue,yellow,NA,NA,"51.842481","4.694183",NA,32140,"Zuid-Holland",NA,mill,NA,NA,NA,NA,"10.8","9.5","1.3",0,2018
+1894,GM1894,"Peel en Maas","Peel en Maas",31,PV31,Limburg,NA,NA,NA,NA,white,black,red,NA,"51.339919","6.012298",NA,43298,Limburg,crown,diamond,cross,NA,NA,NA,"161.4","159.4","1.9",0,2018
+0765,GM0765,Pekela,Pekela,20,PV20,Groningen,NA,NA,NA,NA,white,red,black,blue,"53.085241","6.977881",NA,12733,Groningen,crown,ship,bell,trefoil,NA,NA,"50.2","49.1","1.1",0,2018
+1926,GM1926,"Pijnacker-Nootdorp","Pijnacker-Nootdorp",28,PV28,"Zuid-Holland",NA,NA,NA,NA,blue,yellow,NA,NA,"52.012698","4.427355",NA,51068,"Zuid-Holland",crown,snake,NA,NA,NA,NA,"38.6","37.4","1.3",0,2018
+0439,GM0439,Purmerend,Purmerend,27,PV27,"Noord-Holland",NA,NA,NA,NA,yellow,black,red,NA,"52.514381","4.964061",NA,79552,"Noord-Holland",crown,NA,NA,NA,lion,lion,"24.6","23.4","1.2",0,2018
+0273,GM0273,Putten,Putten,25,PV25,Gelderland,NA,NA,NA,NA,yellow,blue,NA,NA,"52.245301","5.568482",NA,24044,Gelderland,NA,deer,NA,NA,NA,NA,"87.4","85.1","2.3",0,2018
+0177,GM0177,Raalte,Raalte,23,PV23,Overijssel,NA,NA,NA,NA,yellow,black,white,NA,"52.380903","6.278318",NA,36526,Overijssel,corn,corn,trefoil,cross,NA,NA,"172.3","171.1","1.2",0,2018
+0703,GM0703,Reimerswaal,Reimerswaal,29,PV29,Zeeland,NA,NA,NA,NA,red,white,black,blue,"51.410002","4.154448",NA,21915,Zeeland,crown,sword,lion,NA,NA,NA,"242.4",102,"140.4",0,2018
+0274,GM0274,Renkum,Renkum,25,PV25,Gelderland,NA,NA,NA,NA,red,white,yellow,blue,"51.982983","5.739978",NA,31577,Gelderland,crown,horse,lion,NA,NA,NA,"47.2",46,"1.2",0,2018
+0339,GM0339,Renswoude,Renswoude,26,PV26,Utrecht,NA,NA,NA,NA,white,red,blue,NA,"52.074661","5.538173",NA,4928,Utrecht,crown,NA,NA,NA,NA,NA,"18.5","18.4","0.1",0,2018
+1667,GM1667,"Reusel-De Mierden","Reusel-De Mierden",30,PV30,"Noord-Brabant",NA,NA,NA,NA,blue,yellow,black,NA,"51.37065","5.146555",NA,12728,"Noord-Brabant",NA,corn,sun,cloud,NA,NA,"78.6","77.9","0.7",0,2018
+0275,GM0275,Rheden,Rheden,25,PV25,Gelderland,NA,NA,NA,NA,yellow,red,blue,NA,"52.005737","6.027959",NA,43563,Gelderland,NA,NA,NA,NA,NA,NA,"84.4","81.8","2.6",0,2018
+0340,GM0340,Rhenen,Rhenen,26,PV26,Utrecht,NA,NA,NA,NA,red,white,NA,NA,"51.96214","5.571116",NA,19123,Utrecht,crown,castle,key,NA,lion,lion,"43.8","42.1","1.7",0,2018
+0597,GM0597,Ridderkerk,Ridderkerk,28,PV28,"Zuid-Holland",NA,NA,NA,NA,white,green,NA,NA,"51.870253","4.602234",NA,45207,"Zuid-Holland",NA,knight,horse,dragon,NA,NA,"25.3","23.7","1.5",0,2018
+1742,GM1742,"Rijssen-Holten","Rijssen-Holten",23,PV23,Overijssel,NA,NA,NA,NA,NA,NA,NA,NA,"52.292506","6.439999",NA,37696,Overijssel,crown,branch,boar,NA,NA,NA,"94.4","94.1","0.3",0,2018
+0603,GM0603,Rijswijk,Rijswijk,28,PV28,"Zuid-Holland",NA,NA,NA,NA,blue,yellow,NA,NA,"52.037698","4.321974",NA,47680,"Zuid-Holland",NA,branch,NA,NA,lion,lion,"14.5","14.1","0.4",0,2018
+1669,GM1669,Roerdalen,Roerdalen,31,PV31,Limburg,NA,NA,NA,NA,blue,white,red,NA,"51.139166","6.034269",NA,20808,Limburg,lion,lion,lily,NA,NA,NA,"88.7","88.2","0.6",0,2018
+0957,GM0957,Roermond,Roermond,31,PV31,Limburg,NA,NA,NA,NA,blue,white,red,NA,"51.19132","5.987772",NA,57030,Limburg,crown,lion,lily,NA,NA,NA,"71.1","60.8","10.3",0,2018
+0736,GM0736,"De Ronde Venen","De Ronde Venen",26,PV26,Utrecht,NA,NA,NA,NA,NA,NA,NA,NA,"52.20668","4.886773",NA,42648,Utrecht,crown,"agnus dei",key,snake,NA,NA,117,"100.8","16.2",0,2018
+1674,GM1674,Roosendaal,Roosendaal,30,PV30,"Noord-Brabant",NA,NA,NA,NA,red,black,white,NA,"51.535849","4.465321",NA,76930,"Noord-Brabant",crown,lion,rose,NA,NA,NA,"107.2","106.4","0.7",0,2018
+0599,GM0599,Rotterdam,Rotterdam,28,PV28,"Zuid-Holland",NA,NA,NA,NA,green,white,NA,NA,"51.92442","4.477733",NA,618467,"Zuid-Holland",crown,lion,NA,NA,lion,lion,"319.4","206.4","112.9",1,2018
+0277,GM0277,Rozendaal,Rozendaal,25,PV25,Gelderland,NA,NA,NA,NA,blue,yellow,NA,NA,"52.009785","5.966507",NA,1500,Gelderland,NA,rose,NA,NA,NA,NA,"27.9","27.9",0,0,2018
+0840,GM0840,Rucphen,Rucphen,30,PV30,"Noord-Brabant",NA,NA,NA,NA,green,black,red,white,"51.533567","4.56032",NA,22213,"Noord-Brabant",crown,lion,diamond,NA,NA,NA,"64.5","64.4","0.1",0,2018
+0441,GM0441,Schagen,Schagen,27,PV27,"Noord-Holland",NA,NA,NA,NA,yellow,red,NA,NA,"52.788091","4.8044",NA,46016,"Noord-Holland",crown,rose,ring,lily,knight,lion,"187.3","167.9","19.4",0,2018
+0279,GM0279,Scherpenzeel,Scherpenzeel,25,PV25,Gelderland,NA,NA,NA,NA,blue,white,NA,NA,"52.07893","5.488065",NA,9496,Gelderland,crown,lily,NA,NA,NA,NA,"13.8","13.8",0,0,2018
+0606,GM0606,Schiedam,Schiedam,28,PV28,"Zuid-Holland",NA,NA,NA,NA,yellow,black,NA,NA,"51.91696","4.398819",NA,76487,"Zuid-Holland",crown,lion,NA,NA,NA,NA,"19.9",18,"1.8",0,2018
+0088,GM0088,Schiermonnikoog,Schiermonnikoog,21,PV21,Friesland,NA,NA,NA,NA,red,white,blue,green,"53.489374","6.230911",NA,938,Friesland,crown,monk,NA,NA,NA,NA,"199.1",44,"155.1",0,2018
+1676,GM1676,"Schouwen-Duiveland","Schouwen-Duiveland",29,PV29,Zeeland,NA,NA,NA,NA,blue,white,yellow,black,"51.680357","3.952013",NA,33821,Zeeland,crown,mermaid,merman,wave,lion,lion,"488.2","230.1","258.1",0,2018
+0965,GM0965,Simpelveld,Simpelveld,31,PV31,Limburg,NA,NA,NA,NA,blue,white,NA,NA,"50.832849","5.987771",NA,10844,Limburg,crown,shell,dove,ampoule,NA,NA,16,16,0,0,2018
+1702,GM1702,"Sint Anthonis","Sint Anthonis",30,PV30,"Noord-Brabant",NA,NA,NA,NA,green,yellow,NA,NA,"51.627161","5.885193",NA,11696,"Noord-Brabant",NA,"saint antony",NA,NA,NA,NA,"99.8","99.3","0.5",0,2018
+0845,GM0845,"Sint-Michielsgestel","Sint-Michielsgestel",30,PV30,"Noord-Brabant",NA,NA,NA,NA,blue,white,NA,NA,"51.641348","5.352881",NA,28186,"Noord-Brabant",crown,cross,NA,NA,NA,NA,"59.3","58.4","0.9",0,2018
+1883,GM1883,"Sittard-Geleen","Sittard-Geleen",31,PV31,Limburg,NA,NA,NA,NA,yellow,black,red,NA,"51.003168","5.823671",NA,93806,Limburg,NA,NA,NA,NA,NA,NA,"80.5",79,"1.5",0,2018
+0610,GM0610,Sliedrecht,Sliedrecht,28,PV28,"Zuid-Holland",NA,NA,NA,NA,yellow,black,NA,NA,"51.824868","4.773162",NA,24528,"Zuid-Holland",crown,cross,NA,NA,NA,NA,14,"12.8","1.2",0,2018
+1714,GM1714,Sluis,Sluis,29,PV29,Zeeland,NA,NA,NA,NA,white,red,yellow,blue,"51.308656","3.387919",NA,23795,Zeeland,crown,stronghold,tower,NA,lion,lion,"307.2","279.7","27.5",0,2018
+0090,GM0090,Smallingerland,Smallingerland,21,PV21,Friesland,NA,NA,NA,NA,white,green,red,NA,"53.127729","6.079345",NA,55496,Friesland,crown,tree,deer,NA,NA,NA,"126.2","118.2","7.9",0,2018
+0342,GM0342,Soest,Soest,26,PV26,Utrecht,NA,NA,NA,NA,green,white,yellow,NA,"52.176352","5.299197",NA,45430,Utrecht,helmet,plow,wave,NA,NA,NA,"46.4","46.2","0.2",0,2018
+0847,GM0847,Someren,Someren,30,PV30,"Noord-Brabant",NA,NA,NA,NA,white,black,yellow,orange,"51.384967","5.712367",NA,18700,"Noord-Brabant",crown,lion,millrind,NA,NA,NA,"81.5","80.3","1.2",0,2018
+0848,GM0848,"Son en Breugel","Son en Breugel",30,PV30,"Noord-Brabant",NA,NA,NA,NA,yellow,blue,NA,NA,"51.511394","5.498219",NA,16241,"Noord-Brabant",NA,sun,NA,NA,NA,NA,"26.5",26,"0.6",0,2018
+0037,GM0037,Stadskanaal,Stadskanaal,20,PV20,Groningen,NA,NA,NA,NA,white,black,green,yellow,"52.991985","6.946222",NA,32793,Groningen,crown,corn,eagle,NA,NA,NA,"119.9","117.7","2.3",0,2018
+0180,GM0180,Staphorst,Staphorst,23,PV23,Overijssel,NA,NA,NA,NA,blue,yellow,NA,NA,"52.642914","6.199494",NA,16365,Overijssel,NA,tower,NA,NA,NA,NA,"135.7","134.2","1.5",0,2018
+0532,GM0532,"Stede Broec","Stede Broec",27,PV27,"Noord-Holland",NA,NA,NA,NA,green,white,NA,NA,"51.511394","5.498219",NA,21474,"Noord-Holland",crown,star,NA,NA,NA,NA,"16.4","14.6","1.7",0,2018
+0851,GM0851,Steenbergen,Steenbergen,30,PV30,"Noord-Brabant",NA,NA,NA,NA,yellow,red,green,blue,"51.58124","4.315599",NA,23409,"Noord-Brabant",crown,cross,NA,NA,mermaid,mermaid,"159.1","146.7","12.5",0,2018
+1708,GM1708,Steenwijkerland,Steenwijkerland,23,PV23,Overijssel,NA,NA,NA,NA,white,black,green,NA,"52.741538","6.049324",NA,43372,Overijssel,crown,anchor,cross,NA,NA,NA,"321.6","290.2","31.4",0,2018
+0971,GM0971,Stein,Stein,31,PV31,Limburg,NA,NA,NA,NA,red,yellow,black,NA,"50.967974","5.76622",NA,25348,Limburg,crown,"saint martin",horse,shield,NA,NA,"22.6","21.2","1.5",0,2018
+1904,GM1904,"Stichtse Vecht","Stichtse Vecht",26,PV26,Utrecht,NA,NA,NA,NA,yellow,grey,blue,red,"52.144755","5.033208",NA,63823,Utrecht,crown,cross,wave,NA,lion,lion,"106.8","96.6","10.2",0,2018
+1900,GM1900,"Súdwest-Fryslân","Súdwest-Fryslân",21,PV21,Friesland,NA,NA,NA,NA,blue,white,yellow,black,"53.023416","5.481658",NA,84258,Friesland,crown,eagle,NA,NA,lion,lion,"841.6","459.6","381.9",0,2018
+1900,GM1900,"Súdwest Fryslân","Súdwest-Fryslân",21,PV21,Friesland,NA,NA,NA,NA,blue,white,yellow,black,"53.023416","5.481658",NA,84258,Friesland,crown,eagle,NA,NA,lion,lion,"841.6","459.6","381.9",0,2018
+0715,GM0715,Terneuzen,Terneuzen,29,PV29,Zeeland,NA,NA,NA,NA,white,red,blue,NA,"51.332285","3.832426",NA,54711,Zeeland,crown,lion,key,wave,NA,NA,"317.8","250.7","67.1",0,2018
+0093,GM0093,Terschelling,Terschelling,21,PV21,Friesland,NA,NA,NA,NA,red,blue,yellow,green,"53.397875","5.346679",NA,4769,Friesland,crown,lion,tree,seahorse,NA,NA,674,"86.2","587.8",0,2018
+0448,GM0448,Texel,Texel,27,PV27,"Noord-Holland",NA,NA,NA,NA,green,black,NA,NA,"53.054763","4.797715",NA,13566,"Noord-Holland",NA,lion,anchor,NA,NA,NA,"463.2","161.1",302,0,2018
+1525,GM1525,Teylingen,Teylingen,28,PV28,"Zuid-Holland",NA,NA,NA,NA,yellow,red,black,NA,"52.222004","4.513404",NA,35723,"Zuid-Holland",crown,lion,NA,NA,lion,lion,"33.5","28.6","4.9",0,2018
+0716,GM0716,Tholen,Tholen,29,PV29,Zeeland,NA,NA,NA,NA,yellow,red,white,blue,"51.533271","4.216222",NA,25398,Zeeland,crown,ship,lion,NA,NA,NA,254,"147.1","106.9",0,2018
+0281,GM0281,Tiel,Tiel,25,PV25,Gelderland,NA,NA,NA,NA,yellow,black,NA,NA,"51.887618","5.427877",NA,41729,Gelderland,crown,eagle,lion,NA,lion,lion,"34.8","32.3","2.5",0,2018
+0855,GM0855,Tilburg,Tilburg,30,PV30,"Noord-Brabant",NA,NA,NA,NA,blue,yellow,NA,NA,"51.560596","5.091914",NA,210382,"Noord-Brabant",NA,stronghold,NA,NA,NA,NA,"119.2","117.3","1.9",1,2018
+0183,GM0183,Tubbergen,Tubbergen,23,PV23,Overijssel,NA,NA,NA,NA,blue,yellow,NA,NA,"52.408907","6.785489",NA,21216,Overijssel,crown,lion,cross,mountain,NA,NA,"147.4",147,"0.4",0,2018
+1700,GM1700,Twenterand,Twenterand,23,PV23,Overijssel,NA,NA,NA,NA,green,white,blue,NA,"52.450068","6.620745",NA,33939,Overijssel,crown,oak,lion,diamond,NA,NA,"108.1","106.3","1.8",0,2018
+1730,GM1730,Tynaarlo,Tynaarlo,22,PV22,Drenthe,NA,NA,NA,NA,red,green,yellow,white,"53.101283","6.576097",NA,32506,Drenthe,crown,horse,raven,flower,NA,NA,"147.7","143.5","4.2",0,2018
+0737,GM0737,Tytsjerksteradiel,Tytsjerksteradiel,21,PV21,Friesland,NA,NA,NA,NA,red,white,green,blue,"53.176038","5.97868",NA,31980,Friesland,NA,NA,NA,NA,NA,NA,"161.4","149.4",12,0,2018
+0856,GM0856,Uden,Uden,30,PV30,"Noord-Brabant",NA,NA,NA,NA,blue,yellow,NA,NA,"51.663107","5.623923",NA,40934,"Noord-Brabant",NA,NA,NA,NA,NA,NA,"67.5","67.1","0.5",0,2018
+0450,GM0450,Uitgeest,Uitgeest,27,PV27,"Noord-Holland",NA,NA,NA,NA,black,white,red,NA,"52.531225","4.712046",NA,13242,"Noord-Holland",NA,lion,NA,NA,NA,NA,"22.3","19.2","3.1",0,2018
+0451,GM0451,Uithoorn,Uithoorn,27,PV27,"Noord-Holland",NA,NA,NA,NA,blue,yellow,red,orange,"52.244627","4.831734",NA,28407,"Noord-Holland",NA,child,horn,NA,NA,NA,"19.4","18.2","1.2",0,2018
+0184,GM0184,Urk,Urk,24,PV24,Flevoland,NA,NA,NA,NA,blue,white,red,NA,"52.663053","5.598947",NA,19487,Flevoland,NA,fish,NA,NA,NA,NA,"109.9","11.5","98.4",0,2018
+0344,GM0344,Utrecht,Utrecht,26,PV26,Utrecht,NA,NA,NA,NA,red,white,NA,NA,"52.090737","5.12142",NA,328577,Utrecht,crown,NA,NA,NA,lion,lion,"99.2","94.3","4.9",1,2018
+1581,GM1581,"Utrechtse Heuvelrug","Utrechtse Heuvelrug",26,PV26,Utrecht,NA,NA,NA,NA,red,yellow,grey,black,"52.052203","5.282495",NA,47939,Utrecht,crown,cross,lion,lily,NA,NA,"134.1","132.2","1.9",0,2018
+0981,GM0981,Vaals,Vaals,31,PV31,Limburg,NA,NA,NA,NA,white,red,black,NA,"50.773218","6.011274",NA,9682,Limburg,NA,"saint lambert",lion,shield,NA,NA,"23.9","23.9",0,0,2018
+0994,GM0994,"Valkenburg aan de Geul","Valkenburg aan de Geul",31,PV31,Limburg,NA,NA,NA,NA,yellow,red,blue,NA,"50.868477","5.826448",NA,16668,Limburg,crown,castle,eagle,lily,lion,lion,"36.9","36.7","0.2",0,2018
+0858,GM0858,Valkenswaard,Valkenswaard,30,PV30,"Noord-Brabant",NA,NA,NA,NA,blue,yellow,NA,NA,"51.355496","5.453327",NA,30353,"Noord-Brabant",NA,"saint nicolas",child,NA,NA,NA,"56.5",55,"1.5",0,2018
+0047,GM0047,Veendam,Veendam,20,PV20,Groningen,NA,NA,NA,NA,blue,white,green,yellow,"53.106278","6.8751",NA,27795,Groningen,NA,"olive branch",snake,lily,NA,NA,"78.7","76.1","2.6",0,2018
+0345,GM0345,Veenendaal,Veenendaal,26,PV26,Utrecht,NA,NA,NA,NA,yellow,blue,black,NA,"52.026301","5.554431",NA,63207,Utrecht,crown,ship,NA,NA,NA,NA,"19.7","19.5","0.2",0,2018
+0717,GM0717,Veere,Veere,29,PV29,Zeeland,NA,NA,NA,NA,green,blue,yellow,white,"51.548294","3.666006",NA,21882,Zeeland,crown,ship,tower,savage,NA,NA,"206.6","133.1","73.5",0,2018
+0861,GM0861,Veldhoven,Veldhoven,30,PV30,"Noord-Brabant",NA,NA,NA,NA,blue,red,white,NA,"51.417634","5.406021",NA,44136,"Noord-Brabant",crown,lion,diamond,NA,NA,NA,"31.9","31.7","0.2",0,2018
+0453,GM0453,Velsen,Velsen,27,PV27,"Noord-Holland",NA,NA,NA,NA,yellow,blue,NA,NA,"52.452059","4.630587",NA,67231,"Noord-Holland",NA,"agnus dei",cross,NA,NA,NA,"63.1","44.8","18.3",0,2018
+0983,GM0983,Venlo,Venlo,31,PV31,Limburg,NA,NA,NA,NA,blue,red,yellow,black,"51.370375","6.172403",NA,100381,Limburg,NA,lion,anchor,crown,knight,knight,129,125,4,0,2018
+0984,GM0984,Venray,Venray,31,PV31,Limburg,NA,NA,NA,NA,white,blue,black,NA,"51.525626","5.973699",NA,43120,Limburg,NA,beehive,key,snake,NA,NA,165,"163.4","1.6",0,2018
+1961,GM1961,Vijfheerenlanden,Vijfheerenlanden,26,PV26,Utrecht,NA,NA,NA,NA,yellow,red,NA,NA,"51.894313","5.096927",NA,20586,"Zuid-Holland",crown,gatehouse,NA,NA,lion,lion,"34.4","33.8","0.6",0,2018
+0622,GM0622,Vlaardingen,Vlaardingen,28,PV28,"Zuid-Holland",NA,NA,NA,NA,red,yellow,blue,NA,"51.912067","4.349437",NA,71059,"Zuid-Holland",crown,lion,NA,NA,griffin,griffin,"26.7","23.6","3.1",0,2018
+0096,GM0096,Vlieland,Vlieland,21,PV21,Friesland,NA,NA,NA,NA,green,white,NA,NA,"53.250184","4.951427",NA,1097,Friesland,NA,ship,flag,NA,NA,NA,"315.8","36.1","279.7",0,2018
+0718,GM0718,Vlissingen,Vlissingen,29,PV29,Zeeland,NA,NA,NA,NA,red,white,NA,NA,"51.453667","3.570912",NA,44450,Zeeland,crown,jar,crown,NA,NA,NA,"344.8","34.2","310.7",0,2018
+0986,GM0986,Voerendaal,Voerendaal,31,PV31,Limburg,NA,NA,NA,NA,yellow,blue,red,NA,"50.879153","5.93116",NA,12447,Limburg,crown,"saint laurent",cross,lion,NA,NA,"31.5","31.5",0,0,2018
+0626,GM0626,Voorschoten,Voorschoten,28,PV28,"Zuid-Holland",NA,NA,NA,NA,yellow,black,NA,NA,"52.12379","4.438598",NA,24941,"Zuid-Holland",crown,moon,NA,NA,NA,NA,"11.6","11.2","0.4",0,2018
+0285,GM0285,Voorst,Voorst,25,PV25,Gelderland,NA,NA,NA,NA,yellow,red,NA,NA,"52.225271","6.09905",NA,23801,Gelderland,crown,NA,NA,NA,NA,NA,"126.5","123.1","3.4",0,2018
+0865,GM0865,Vught,Vught,30,PV30,"Noord-Brabant",NA,NA,NA,NA,yellow,blue,red,NA,"51.653306","5.294347",NA,25626,"Noord-Brabant",NA,lion,key,church,NA,NA,"34.4","33.5",1,0,2018
+1949,GM1949,Waadhoeke,Waadhoeke,21,PV21,Friesland,NA,NA,NA,NA,yellow,blue,green,NA,"53.184738","5.531866",NA,NA,Friesland,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2018
+0866,GM0866,Waalre,Waalre,30,PV30,"Noord-Brabant",NA,NA,NA,NA,red,blue,yellow,NA,"51.387833","5.443202",NA,16804,"Noord-Brabant","saint willibrord",horn,lily,NA,NA,NA,"22.7","22.4","0.3",0,2018
+0867,GM0867,Waalwijk,Waalwijk,30,PV30,"Noord-Brabant",NA,NA,NA,NA,yellow,red,black,NA,"51.687895","5.057482",NA,46515,"Noord-Brabant",tree,lion,NA,NA,NA,NA,"67.7","64.6","3.1",0,2018
+0627,GM0627,Waddinxveen,Waddinxveen,28,PV28,"Zuid-Holland",NA,NA,NA,NA,yellow,black,NA,NA,"52.031297","4.659132",NA,25520,"Zuid-Holland",crown,key,NA,NA,NA,NA,"29.4","27.9","1.5",0,2018
+0289,GM0289,Wageningen,Wageningen,25,PV25,Gelderland,NA,NA,NA,NA,red,white,NA,NA,"51.969187","5.665395",NA,37511,Gelderland,crown,wheel,NA,NA,lion,lion,"32.4","30.5","1.9",1,2018
+0629,GM0629,Wassenaar,Wassenaar,28,PV28,"Zuid-Holland",NA,NA,NA,NA,blue,white,NA,NA,"52.14291","4.401213",NA,25786,"Zuid-Holland",crown,moon,NA,NA,NA,NA,"62.4","50.9","11.5",0,2018
+0852,GM0852,Waterland,Waterland,27,PV27,"Noord-Holland",NA,NA,NA,NA,white,blue,NA,NA,"52.44705","5.015475",NA,17154,"Noord-Holland",laurel,swan,arrow,NA,griffin,griffin,"115.7","52.1","63.6",0,2018
+0988,GM0988,Weert,Weert,31,PV31,Limburg,NA,NA,NA,NA,white,blue,red,yellow,"51.243941","5.714222",NA,48727,Limburg,crown,wave,NA,NA,NA,NA,"105.5","104.5",1,0,2018
+0457,GM0457,Weesp,Weesp,27,PV27,"Noord-Holland",NA,NA,NA,NA,blue,white,black,NA,"52.308051","5.040622",NA,18231,"Noord-Holland",NA,NA,NA,NA,NA,NA,"21.8","20.5","1.3",0,2018
+1960,GM1960,"West Betuwe","West Betuwe",25,PV25,Gelderland,NA,NA,NA,NA,yellow,red,blue,black,"51.884365","5.229359",NA,26339,Gelderland,crown,horse,lily,pillar,NA,NA,"101.7",100,"1.8",0,2018
+0668,GM0668,"West Maas en Waal","West Maas en Waal",25,PV25,Gelderland,NA,NA,NA,NA,white,yellow,blue,black,"51.861341","5.501737",NA,18391,Gelderland,crown,eagle,wave,NA,NA,NA,"85.2","77.4","7.8",0,2018
+1969,GM1969,Westerkwartier,Westerkwartier,20,PV20,Groningen,NA,NA,NA,NA,green,white,black,NA,"53.161611","6.390616",NA,19607,Groningen,crown,knight,horse,NA,NA,NA,"64.3","63.3",1,0,2018
+1701,GM1701,Westerveld,Westerveld,22,PV22,Drenthe,NA,NA,NA,NA,white,purple,NA,NA,"52.857708","6.29601",NA,18902,Drenthe,crown,NA,NA,NA,NA,NA,"282.7","278.8","3.9",0,2018
+0293,GM0293,Westervoort,Westervoort,25,PV25,Gelderland,NA,NA,NA,NA,white,black,blue,yellow,"51.963807","5.968984",NA,15147,Gelderland,NA,eagle,NA,NA,NA,NA,"7.8","7.1","0.8",0,2018
+1950,GM1950,Westerwolde,Westerwolde,20,PV20,Groningen,NA,NA,NA,NA,NA,NA,NA,NA,"53.027025","7.110788",NA,NA,Groningen,NA,NA,NA,NA,NA,NA,"280.6",267,"4.6",0,2018
+1783,GM1783,Westland,Westland,28,PV28,"Zuid-Holland",NA,NA,NA,NA,white,red,green,grey,"51.999176","4.217457",NA,103335,"Zuid-Holland",crown,lion,NA,NA,NA,NA,"90.6","79.5","11.1",0,2018
+0098,GM0098,Weststellingwerf,Weststellingwerf,21,PV21,Friesland,NA,NA,NA,NA,red,white,NA,NA,"52.871892","6.022919",NA,25487,Friesland,crown,griffin,star,NA,NA,NA,"228.5","221.2","7.3",0,2018
+0614,GM0614,Westvoorne,Westvoorne,28,PV28,"Zuid-Holland",NA,NA,NA,NA,green,red,white,yellow,"51.887279","4.084461",NA,13977,"Zuid-Holland",NA,NA,NA,NA,NA,NA,"97.5","53.2","44.3",0,2018
+0189,GM0189,Wierden,Wierden,23,PV23,Overijssel,NA,NA,NA,NA,white,blue,yellow,black,"52.35826","6.593873",NA,23906,Overijssel,NA,cross,corn,NA,NA,NA,"95.4","94.8","0.6",0,2018
+0296,GM0296,Wijchen,Wijchen,25,PV25,Gelderland,NA,NA,NA,NA,yellow,red,NA,NA,"51.813674","5.752895",NA,41010,Gelderland,crown,cross,scissors,NA,NA,NA,"69.6","66.5","3.1",0,2018
+1696,GM1696,Wijdemeren,Wijdemeren,27,PV27,"Noord-Holland",NA,NA,NA,NA,white,blue,green,NA,"52.219688","5.093666",NA,23170,"Noord-Holland",crown,goose,NA,NA,NA,NA,"76.4","47.9","28.5",0,2018
+0352,GM0352,"Wijk bij Duurstede","Wijk bij Duurstede",26,PV26,Utrecht,NA,NA,NA,NA,yellow,red,white,NA,"51.9756","5.33845",NA,23031,Utrecht,crown,pillar,NA,NA,lion,lion,"50.3","47.6","2.7",0,2018
+0294,GM0294,Winterswijk,Winterswijk,25,PV25,Gelderland,NA,NA,NA,NA,blue,yellow,white,NA,"51.971314","6.720509",NA,28873,Gelderland,crown,greyhound,NA,NA,NA,NA,"138.8","138.2","0.7",0,2018
+0873,GM0873,Woensdrecht,Woensdrecht,30,PV30,"Noord-Brabant",NA,NA,NA,NA,yellow,green,blue,NA,"51.429248","4.304708",NA,21654,"Noord-Brabant",crown,maria,jesus,lion,NA,NA,"91.9","91.6","0.4",0,2018
+0632,GM0632,Woerden,Woerden,26,PV26,Utrecht,NA,NA,NA,NA,yellow,red,white,black,"52.079829","4.862724",NA,50607,Utrecht,crown,diamond,NA,NA,lion,lion,"92.9","89.4","3.6",0,2018
+1690,GM1690,"De Wolden","De Wolden",22,PV22,Drenthe,NA,NA,NA,NA,yellow,green,black,white,"52.681979","6.366039",NA,23592,Drenthe,crown,forest,NA,NA,NA,NA,"226.4","224.8","1.6",0,2018
+0880,GM0880,Wormerland,Wormerland,27,PV27,"Noord-Holland",NA,NA,NA,NA,blue,white,black,NA,"52.507275","4.8528",NA,15751,"Noord-Holland",crown,ibis,NA,NA,NA,NA,"45.2","38.7","6.4",0,2018
+0351,GM0351,Woudenberg,Woudenberg,26,PV26,Utrecht,NA,NA,NA,NA,yellow,black,red,NA,"52.082175","5.426595",NA,12386,Utrecht,crown,cock,NA,NA,NA,NA,"36.8","36.5","0.3",0,2018
+0479,GM0479,Zaanstad,Zaanstad,27,PV27,"Noord-Holland",NA,NA,NA,NA,red,white,blue,NA,"52.457966","4.751043",NA,150911,"Noord-Holland",NA,lion,NA,NA,whale,whale,"83.2","73.9","9.4",0,2018
+0297,GM0297,Zaltbommel,Zaltbommel,25,PV25,Gelderland,NA,NA,NA,NA,red,blue,white,yellow,"51.813554","5.250773",NA,27207,Gelderland,crown,flower,stronghold,sword,lion,lion,89,"79.6","9.4",0,2018
+0473,GM0473,Zandvoort,Zandvoort,27,PV27,"Noord-Holland",NA,NA,NA,NA,yellow,blue,NA,NA,"52.371149","4.533355",NA,16588,"Noord-Holland",NA,herring,NA,NA,NA,NA,44,"32.1",12,0,2018
+0050,GM0050,Zeewolde,Zeewolde,24,PV24,Flevoland,NA,NA,NA,NA,blue,green,yellow,NA,"52.331128","5.540495",NA,21543,Flevoland,crown,lily,trefoil,antlers,seal,seal,"268.9","248.5","20.3",0,2018
+0355,GM0355,Zeist,Zeist,26,PV26,Utrecht,NA,NA,NA,NA,white,black,NA,NA,"52.090601","5.233253",NA,61337,Utrecht,NA,NA,NA,NA,NA,NA,"48.7","48.5","0.1",0,2018
+0299,GM0299,Zevenaar,Zevenaar,25,PV25,Gelderland,NA,NA,NA,NA,red,yellow,black,NA,"51.929445","6.076959",NA,32254,Gelderland,crown,lily,staff,NA,NA,NA,58,"53.3","4.7",0,2018
+0637,GM0637,Zoetermeer,Zoetermeer,28,PV28,"Zuid-Holland",NA,NA,NA,NA,blue,yellow,NA,NA,"52.060669","4.494025",NA,123614,"Zuid-Holland",crown,flower,NA,NA,lion,lion,"37.1","34.6","2.5",0,2018
+0638,GM0638,Zoeterwoude,Zoeterwoude,28,PV28,"Zuid-Holland",NA,NA,NA,NA,blue,yellow,NA,NA,"52.12083","4.51657",NA,8089,"Zuid-Holland",NA,leaf,branch,NA,NA,NA,22,"21.3","0.7",0,2018
+1892,GM1892,Zuidplas,Zuidplas,28,PV28,"Zuid-Holland",NA,NA,NA,NA,white,blue,red,NA,"52.006758","4.582785",NA,40878,"Zuid-Holland",crown,lion,star,church,lion,lion,"62.4","59.4","3.1",0,2018
+0879,GM0879,Zundert,Zundert,30,PV30,"Noord-Brabant",NA,NA,NA,NA,white,red,green,NA,"51.470701","4.662356",NA,21374,"Noord-Brabant",crown,lily,cross,NA,lion,lion,"121.2","120.8","0.4",0,2018
+0301,GM0301,Zutphen,Zutphen,25,PV25,Gelderland,NA,NA,NA,NA,white,blue,red,NA,"52.142736","6.196058",NA,47154,Gelderland,crown,lion,cross,NA,lion,lion,"42.9",41,2,0,2018
+1896,GM1896,Zwartewaterland,Zwartewaterland,23,PV23,Overijssel,NA,NA,NA,NA,yellow,blue,white,red,"52.601512","6.059625",NA,22148,Overijssel,crown,lily,salmon,NA,NA,NA,"87.9","82.7","5.2",0,2018
+0642,GM0642,Zwijndrecht,Zwijndrecht,28,PV28,"Zuid-Holland",NA,NA,NA,NA,yellow,black,NA,NA,"51.810598","4.627272",NA,44546,"Zuid-Holland",NA,NA,NA,NA,NA,NA,"22.8","20.4","2.4",0,2018
+0193,GM0193,Zwolle,Zwolle,23,PV23,Overijssel,NA,NA,NA,NA,blue,white,NA,NA,"52.516775","6.083022",NA,123211,Overijssel,crown,cross,NA,NA,lion,lion,"119.4","111.4",8,0,2018
